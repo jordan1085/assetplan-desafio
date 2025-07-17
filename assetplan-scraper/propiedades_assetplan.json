@@ -1,0 +1,1961 @@
+{
+  "propiedades": [
+    {
+      "id": 3063,
+      "informacion_basica": {
+        "titulo": "Home Inclusive Independencia",
+        "direccion_completa": "Escanilla 1035 , Independencia",
+        "comuna": "Independencia",
+        "link_propiedad": "https://www.assetplan.cl/arriendo/departamento/independencia/edificio/home-inclusive-independencia/3063"
+      },
+      "precio": {
+        "precio_desde": "295278",
+        "precio_hasta": "517680",
+        "moneda": "CLP",
+        "precio_desde_uf": 7571,
+        "precio_hasta_uf": 13274
+      },
+      "servicios_disponibles": [
+        "Servicio Pro",
+        "Arriendo con descuento",
+        "Garantía en cuotas",
+        "Opción sin aval"
+      ],
+      "caracteristicas": [
+        "1 Dormitorio | +10 Disponibles",
+        "2 Dormitorios | +10 Disponibles",
+        "Estudio | 1 Disponible"
+      ],
+      "imagenes": [
+        "https://d23gr057zjkjxx.cloudfront.net/FYtx4AlJ4JRerM_QKKo4pPu6sODHpmw9vd9y6yvECBc/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMDYzL3RodW1icy9vcmlnaW5hbF8yQTI2MTdGNC1BNEM2LTJBMEEtRTVGOS1BMjQ3NkExQzU1MjAtcmFsZWlob21lMjQwLmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/0fsc8IFvBRxIQtQfepMmaiGJIzdu68FKv1RZq3FDnOU/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMDYzL3RodW1icy9vcmlnaW5hbF82NTAzODE1RC0wQUZCLTZEOEMtQzc3MS1GRENEQzhFQjNBRjItcmFsZWlob21lMTQwLmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/1mKPCsDe2nx0hb_VuUSzUF1YKcYEgrGWjDzcAC1f1gk/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMDYzL3RodW1icy9vcmlnaW5hbF84RTJBQUZBNi03QzgxLUQyNzktMjAxMy1FMjc3MDNCNjVCMkEtcmFsZWlob21lMTc0LmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/A_Di7WYlNEMQS9WwgsqdtmvdnKhRwEsKO3cTW7OPfvs/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMDYzL3RodW1icy9vcmlnaW5hbF82RThBMkJDNi0xQ0FFLTQ4N0YtODBFRi1EQzlBNzZCNjExRDctcmFsZWlob21lMjM4LmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/Ywjgx13LnwTmae-taEpe_Vi2SfJtthgmLIznXwHwWao/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMDYzL3RodW1icy9vcmlnaW5hbF9ENEVBMDY0OS01RDkzLUVCMjYtQkQ1RC01NTU2NzRCNUM4RjAtcmFsZWlob21lMjg0LmpwZw.jpg"
+      ],
+      "servicios_especiales": {
+        "tiene_descuento": true,
+        "garantia_cuotas": true,
+        "sin_aval": true,
+        "servicio_pro": true
+      }
+    },
+    {
+      "id": 2934,
+      "informacion_basica": {
+        "titulo": "Plaza Central",
+        "direccion_completa": "Av. Ecuador 4626 , Estación Central",
+        "comuna": "Estación Central",
+        "link_propiedad": "https://www.assetplan.cl/arriendo/departamento/estacion-central/edificio/plaza-central/2934"
+      },
+      "precio": {
+        "precio_desde": "210000",
+        "precio_hasta": "328000",
+        "moneda": "CLP",
+        "precio_desde_uf": 5385,
+        "precio_hasta_uf": 8410
+      },
+      "servicios_disponibles": [
+        "Servicio Pro",
+        "Arriendo con descuento",
+        "Garantía en cuotas",
+        "Opción sin aval"
+      ],
+      "caracteristicas": [
+        "Estudio | +10 Disponibles",
+        "1 Dormitorio | +10 Disponibles",
+        "2 Dormitorios | +10 Disponibles"
+      ],
+      "imagenes": [
+        "https://d23gr057zjkjxx.cloudfront.net/7d-qNeHv4Vvycc88a_fJBuzCKx6MSUyAjjLBJT4akO8/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yOTM0L3RodW1icy9vcmlnaW5hbF84QjRCQkY2Ny02Mzk0LTY0NTctQjcyNC0wM0I3MUE2NDU3RUMtNTA0MjNhdDEyLjEzLjQ3LmpwZWc.jpeg",
+        "https://d23gr057zjkjxx.cloudfront.net/u45HurCxAXLMIn-NmBc7FiDMj66X3WCBlEF30UYtUts/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yOTM0L3RodW1icy9vcmlnaW5hbF83MkNDQUE5OS00MjFBLUMzRTctMDEwOC1DRThDODVEOUQyQUQtNTA0MjNhdDEyLjEzLjQ4LmpwZWc.jpeg",
+        "https://d23gr057zjkjxx.cloudfront.net/tOpHXYMdkVLlvf5e58SLAar-KcOZnNz0lRKkQS4Iwjo/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yOTM0L3RodW1icy9vcmlnaW5hbF8xMUQxMDg5QS03NjJBLTQ3ODAtNzI0RC0yNDFEOTBEODY5QjctNTA0MjNhdDEyLjExLjE5LmpwZWc.jpeg",
+        "https://d23gr057zjkjxx.cloudfront.net/FsJmsWiDWf62NlvH9wj5fNesQAO63rE-26oOM3wj4Ow/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yOTM0L3RodW1icy9vcmlnaW5hbF9ENEY2NjQ3NC1EMUU4LTQyNUEtQ0ZDNS05NzU3MjlDODkzNDYtMTUuMzEuMjk5YWE2YjMwYy5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/g11U0ZB07aJGuAyWxfKTIgnaVDNHlPrv5RdkyfVoRWs/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yOTM0L3RodW1icy9vcmlnaW5hbF8xMEY0MDNEOC0xOTQ1LTNGMTYtMDAyQS1GRkYxOTAzNDJDRDMtMTUuMzEuMjkxZjQ2MDVjYS5qcGc.jpg"
+      ],
+      "servicios_especiales": {
+        "tiene_descuento": true,
+        "garantia_cuotas": true,
+        "sin_aval": true,
+        "servicio_pro": true
+      }
+    },
+    {
+      "id": 2933,
+      "informacion_basica": {
+        "titulo": "Alto Conde",
+        "direccion_completa": "Conde del Maule 4160 , Estación Central",
+        "comuna": "Estación Central",
+        "link_propiedad": "https://www.assetplan.cl/arriendo/departamento/estacion-central/edificio/alto-conde/2933"
+      },
+      "precio": {
+        "precio_desde": "236000",
+        "precio_hasta": "343000",
+        "moneda": "CLP",
+        "precio_desde_uf": 6051,
+        "precio_hasta_uf": 8795
+      },
+      "servicios_disponibles": [
+        "Servicio Pro",
+        "Arriendo con descuento",
+        "Garantía en cuotas",
+        "Opción sin aval"
+      ],
+      "caracteristicas": [
+        "1 Dormitorio | +10 Disponibles",
+        "2 Dormitorios | 6 Disponibles",
+        "Estudio | Notificar disponibilidad"
+      ],
+      "imagenes": [
+        "https://d23gr057zjkjxx.cloudfront.net/_AajR6mBuUHhQgYdwewK1T9REdoIVhFBYJmhSZOzKaQ/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yOTMzL3RodW1icy9vcmlnaW5hbF8xQjRBMkVCRS1FM0NCLUE4QjQtQzRFNi1DNDA0RDFENUVEMURzYWxhX2RlX2p1ZWdvLmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/Gwd-KoYnU2dKI3BEMCF_bWupvntPCABtI8GMkmS_Hxc/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yOTMzL3RodW1icy9vcmlnaW5hbF8yQTU3M0Y1Ny03Q0QzLTNCQ0YtNUFDQi1EMDY5NDg4MjA2MEFzYWxhX2RlX2p1ZWdvXzIuanBn.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/RB5eHJg7xUB5WG0e7JPfYjTWfV1PZOB2JJm2fw4-s5Q/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yOTMzL3RodW1icy9vcmlnaW5hbF8yMzE3MjVBRS1CNkM2LUEwQ0MtOTVDRi1COTk2Mzk1NDI1QjVjb3dvcmsuanBn.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/p5NUBf42vUYRyqzNYOF2pC1i1gjvGoufchMnUP5z28k/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yOTMzL3RodW1icy9vcmlnaW5hbF83RDE2QTlGMS1BMzYwLTUzNzItNjUwRS0wMkU1RkM4NUNCODJjb3dvcmsyLmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/jXetmLR2kCiiSY5QBmF_EKUxAU4UGRTtlrItAN31_Oo/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yOTMzL3RodW1icy9vcmlnaW5hbF81MDUyNTg3RC03QkNCLTBEMDgtMzM2Qi0xMzUyNjM5MEJCRUNoYWxsLTUuanBn.jpg"
+      ],
+      "servicios_especiales": {
+        "tiene_descuento": true,
+        "garantia_cuotas": true,
+        "sin_aval": true,
+        "servicio_pro": true
+      }
+    },
+    {
+      "id": 3201,
+      "informacion_basica": {
+        "titulo": "Serrano Capital",
+        "direccion_completa": "Serrano 562 , Santiago",
+        "comuna": "Santiago",
+        "link_propiedad": "https://www.assetplan.cl/arriendo/departamento/santiago/edificio/serrano-capital/3201"
+      },
+      "precio": {
+        "precio_desde": "355000",
+        "precio_hasta": "375000",
+        "moneda": "CLP",
+        "precio_desde_uf": 9103,
+        "precio_hasta_uf": 9615
+      },
+      "servicios_disponibles": [
+        "Servicio Pro",
+        "Arriendo con descuento",
+        "Garantía en cuotas",
+        "Opción sin garantía"
+      ],
+      "caracteristicas": [
+        "1 Dormitorio | +10 Disponibles",
+        "2 Dormitorios | Notificar disponibilidad"
+      ],
+      "imagenes": [
+        "https://d23gr057zjkjxx.cloudfront.net/8bi4lAYnBbGFELxcOY_L2kWgfzR4q40s0hztS8KEpfk/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMjAxL3RodW1icy9vcmlnaW5hbF9EMEE3OTE2My1CMDdGLUYzOUItOUFFRS0zMzIyMDhCNEY1NTczMzY4ZDlhMDI0Nl84My5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/LFZ9zJhF75_Q_5WdRUGVL0pBigpgPMXgBNiMoU2PgL0/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMjAxL3RodW1icy9vcmlnaW5hbF9DRDMxM0IxMS0zMDIyLUUxNjAtNTQ3Ni1CQUY1NkEzODdBMjAzMDA4ZDlhMDIxMF83My5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/pTJCqvlKkJAdAcplyaJ4PEai1VFcHc3XIQNnAxB2yCk/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMjAxL3RodW1icy9vcmlnaW5hbF9FMUMwQ0FCNi0zN0FELUEzOUYtRjIxNC02MUIyMjEzREZFRDUyMTE4ZDlhMDEyMV80OC5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/G2r2CSo0VuXnZvTTmF_FmUiAfD-IadShmfpEdQwBhes/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMjAxL3RodW1icy9vcmlnaW5hbF8wRTExMUZEMi0yMjNBLThFQ0ItRkUyRi02RTdGMzJENDU1QUYyMjE4ZDlhMDEzMV81MC5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/ZodfVUpH0FmGf0E0Dyad79Z44gbMwsY4vFsN6rBH3uQ/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMjAxL3RodW1icy9vcmlnaW5hbF83NDRDMEM1MC0zMUM3LTJGMTUtRUQzRi0zNEQwOUZFRUMzNUEyODQ4ZDlhMDE5NF82OC5qcGc.jpg"
+      ],
+      "servicios_especiales": {
+        "tiene_descuento": true,
+        "garantia_cuotas": true,
+        "sin_aval": false,
+        "servicio_pro": true
+      }
+    },
+    {
+      "id": 3129,
+      "informacion_basica": {
+        "titulo": "Cinco de Abril",
+        "direccion_completa": "Hermanos Arellano 160 , Estación Central",
+        "comuna": "Estación Central",
+        "link_propiedad": "https://www.assetplan.cl/arriendo/departamento/estacion-central/edificio/cinco-de-abril/3129"
+      },
+      "precio": {
+        "precio_desde": "229000",
+        "precio_hasta": "356000",
+        "moneda": "CLP",
+        "precio_desde_uf": 5872,
+        "precio_hasta_uf": 9128
+      },
+      "servicios_disponibles": [
+        "Servicio Pro",
+        "Arriendo con descuento",
+        "Garantía en cuotas",
+        "Opción sin aval"
+      ],
+      "caracteristicas": [
+        "2 Dormitorios | +10 Disponibles",
+        "1 Dormitorio | 9 Disponibles",
+        "Estudio | 4 Disponibles"
+      ],
+      "imagenes": [
+        "https://d23gr057zjkjxx.cloudfront.net/FAZJ58A0E_Sa4B3OmVuFrb4roV43SjjHo1kPXFqa7WU/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMTI5L3RodW1icy9vcmlnaW5hbF8zNjZDRTU3NS1BRjg5LTMyODEtOTA0MC03N0VCQzczMjZDMTlncnVwb3BhdGlvXzVkZWFicmlsX19kc2MzNTg4LWhkci5qcGVn.jpeg",
+        "https://d23gr057zjkjxx.cloudfront.net/X2FjqdL4uh8CI06NQbZLixfmxdleJESJfIf8B9oIA5Y/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMTI5L3RodW1icy9vcmlnaW5hbF82MjEzRDU3OC04NkI2LTg2MjgtRDM0Qy02MDMwQkQwRjRGMTlncnVwb3BhdGlvXzVkZWFicmlsX19kc2MzNTg0LWhkci5qcGVn.jpeg",
+        "https://d23gr057zjkjxx.cloudfront.net/PK0BnjK7ZwejgOpawtQVrG3_8e-rhwPZ2DDbNz5aJ5Y/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMTI5L3RodW1icy9vcmlnaW5hbF9GMkI3OTJFMi1FMjM0LUIyQjItQ0Q1QS0xNzI2MThCMDFFOUVfcjFhODI0Ny5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/3PPJ1lzzuQjLqE19ObTRAD8HxON4zlxFN6U-x3rbNvY/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMTI5L3RodW1icy9vcmlnaW5hbF83MEZGQzM2OS1CODM5LTZFNDMtQkU4RS1BN0Q0QTlFOThEMzBncnVwb3BhdGlvXzVkZWFicmlsX19kc2MzNTM3LWhkci5qcGVn.jpeg",
+        "https://d23gr057zjkjxx.cloudfront.net/zHXTQS_-59qUm27gawYPImDU_aGxGzm93x1Dyv7OHwI/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMTI5L3RodW1icy9vcmlnaW5hbF8wQzhEOUMwMy1CQjZELTk4ODUtNzZERi1CRTM3NzUwRjlFQ0MyNS5qcGc.jpg"
+      ],
+      "servicios_especiales": {
+        "tiene_descuento": true,
+        "garantia_cuotas": true,
+        "sin_aval": true,
+        "servicio_pro": true
+      }
+    },
+    {
+      "id": 3130,
+      "informacion_basica": {
+        "titulo": "San Isidro",
+        "direccion_completa": "San Isidro 543 , Santiago",
+        "comuna": "Santiago",
+        "link_propiedad": "https://www.assetplan.cl/arriendo/departamento/santiago/edificio/san-isidro/3130"
+      },
+      "precio": {
+        "precio_desde": "330000",
+        "precio_hasta": "480000",
+        "moneda": "CLP",
+        "precio_desde_uf": 8462,
+        "precio_hasta_uf": 12308
+      },
+      "servicios_disponibles": [
+        "Servicio Pro",
+        "Arriendo con descuento",
+        "Garantía en cuotas",
+        "Opción sin aval"
+      ],
+      "caracteristicas": [
+        "1 Dormitorio | +10 Disponibles",
+        "2 Dormitorios | 2 Disponibles"
+      ],
+      "imagenes": [
+        "https://d23gr057zjkjxx.cloudfront.net/i53_0t18IrJP4ZJJohPKo6Btz7Xa-J-GZ-XkjgyjrI0/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMTMwL3RodW1icy9vcmlnaW5hbF82NTE1RkRFMi1BNzlELUU2OEItODU1Ri01QzFGNDhCOUM0NUQ4ZDlhOTIxMl8xMDFfNzYuanBn.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/GVf4JJvBfZSo9_I1dZcGbokgVDGYeXL1a15yt5DFpS0/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMTMwL3RodW1icy9vcmlnaW5hbF84RDU4MDRDQi0xQ0ZDLTY2OTgtMkI1Ri0xQkE5OTU2OUY3REM4ZDlhOTIyM18xMDZfMzIuanBn.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/_EynrXVdUfmVhhPlBLQ5xzXPeG-zOqk86QaPRhdLXQo/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMTMwL3RodW1icy9vcmlnaW5hbF85NTc2NDJFNS1DNTFGLTYyNEQtMzY2MS0wMDZEODc2ODgzNkM4ZDlhOTI2MF8xMjNfMzYuanBn.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/75SsgMwDJAYJYpwwpyffkYIfPvjPj1Zl9qhOKLJrW3I/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMTMwL3RodW1icy9vcmlnaW5hbF83MzE0RUU4QS04QjE0LTcwMDctRDU2MC0xMkMyQkYwQzgxQTRpbWFnZW5fZGVfd2hhdHNhcHBfMjAyNC0xMi0xOV9hX2xhc18xMi41Ny4wMV8yMzNkNmYyZS5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/g_ws2RsmbyySvZj314k1yEUzHCiPn0TpT3nKKbTeT5g/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMTMwL3RodW1icy9vcmlnaW5hbF8wRThGQUMyQi1BQjNGLUQzNzUtQjdBNC0xMzY5RUExQjVCNTY4ZDlhOTIxNl8xMDNfNzguanBn.jpg"
+      ],
+      "servicios_especiales": {
+        "tiene_descuento": true,
+        "garantia_cuotas": true,
+        "sin_aval": true,
+        "servicio_pro": true
+      }
+    },
+    {
+      "id": 1345,
+      "informacion_basica": {
+        "titulo": "Plaza Conde del Maule",
+        "direccion_completa": "Conde del Maule 4631 , Estación Central",
+        "comuna": "Estación Central",
+        "link_propiedad": "https://www.assetplan.cl/arriendo/departamento/estacion-central/edificio/plaza-conde-del-maule/1345"
+      },
+      "precio": {
+        "precio_desde": "235000",
+        "precio_hasta": "418000",
+        "moneda": "CLP",
+        "precio_desde_uf": 6026,
+        "precio_hasta_uf": 10718
+      },
+      "servicios_disponibles": [
+        "Servicio Pro",
+        "Arriendo con descuento",
+        "Garantía en cuotas",
+        "Opción sin aval"
+      ],
+      "caracteristicas": [
+        "Estudio | 9 Disponibles",
+        "1 Dormitorio | 8 Disponibles",
+        "2 Dormitorios | 4 Disponibles"
+      ],
+      "imagenes": [
+        "https://d23gr057zjkjxx.cloudfront.net/iJD4Z0sfhsNP4Um32jm6lyGLn9v5y4wKDSNEb9EjYvo/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8xMzQ1L3RodW1icy9vcmlnaW5hbF81QTAxRURFMC1CNjE3LTBFN0ItMjEzNi02MUJCN0NDNDZFMEQ4ZDlhNTAwMV8xLmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/O9ad-O-HCAcN-G8b24ljBDdnfum2lYT-1hcOZgpJ3I8/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8xMzQ1L3RodW1icy9vcmlnaW5hbF9DOUFBNjlDQS1GRUU4LTlFNjItOTgwMi1CM0M2NzMzREMyRDk4ZDlhOTE4Nl80MV81LmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/TdH_nIbEyLJg8f58PTd5WmgXU4aUhskwx9uqRBjKcww/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8xMzQ1L3RodW1icy9vcmlnaW5hbF9EREM5Q0NGRC05QjlBLTFCNDQtM0NFNy1DRDM1NzRCREFFQjU4ZDlhOTI0MV81Nl8xNC5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/Z6JD9PLa1VofrscEtouuqCgmshIpxiTz90JDYSfamJw/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8xMzQ1L3RodW1icy9vcmlnaW5hbF84NTAyQzg5MC05RkE1LTQ3ODMtNDdFMi1DQzUzNkFFRUZEMkE4ZDlhOTI1MF81OV8xNy5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/BlrkCQc3IWKmxZY5dhj9BxIKgCzRus7upCw_Xn2bwhQ/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8xMzQ1L3RodW1icy9vcmlnaW5hbF8zODdFOERDNC04NzBBLTU3QUUtQTJDOS0wMkU4REFDQUUwNzQ4ZDlhNTAwNF8zLmpwZw.jpg"
+      ],
+      "servicios_especiales": {
+        "tiene_descuento": true,
+        "garantia_cuotas": true,
+        "sin_aval": true,
+        "servicio_pro": true
+      }
+    },
+    {
+      "id": 2160,
+      "informacion_basica": {
+        "titulo": "Concon",
+        "direccion_completa": "Cnel. Souper 4400 , Estación Central",
+        "comuna": "Estación Central",
+        "link_propiedad": "https://www.assetplan.cl/arriendo/departamento/estacion-central/edificio/concon/2160"
+      },
+      "precio": {
+        "precio_desde": "244000",
+        "precio_hasta": "390000",
+        "moneda": "CLP",
+        "precio_desde_uf": 6256,
+        "precio_hasta_uf": 10000
+      },
+      "servicios_disponibles": [
+        "Servicio Pro",
+        "Garantía en cuotas"
+      ],
+      "caracteristicas": [
+        "1 Dormitorio | 7 Disponibles",
+        "2 Dormitorios | 7 Disponibles",
+        "Estudio | 6 Disponibles"
+      ],
+      "imagenes": [
+        "https://d23gr057zjkjxx.cloudfront.net/FKUPA7Xj9Ya-q08kFmlkK2fPmcmmGtGutWKk9jKYeVw/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yMTYwL3RodW1icy9vcmlnaW5hbF9EMjY4RERCNS01MEYyLTQ3RDgtNjgwRS1FNDk5MzBDRUU4NjRmYWNoYWRhX3dlYi5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/XA9j-ceRh8vbWUS3gkZnrSHEEL4cJV4ATeh6Mfb289I/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yMTYwL3RodW1icy9vcmlnaW5hbF9EODZCODYzMy1BOEUyLURFMTAtRjI4RC04N0U4MUZDNzI5RkQxMzg4ZDlhMDEwM18zMl83LmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/sxB7WdIu6rtHiATEZsQ6qijF-hogF-OictQ5f45HHyE/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yMTYwL3RodW1icy9vcmlnaW5hbF8zRUUzNDUxNS1GNDI5LTkxRkQtMDNCQS1GNjQyMTU2NjAxNjExNDM4ZDlhMDEwOF8zNF85LmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/tq1hLA-IAkAj6yzJ7pEsZH6mevQtkQ7-mDu4owT40to/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yMTYwL3RodW1icy9vcmlnaW5hbF8zQjI4QTcxQS1EQUIxLTFDMUYtOTBEMi02OTE2MzZCREFDRjgxNjY4ZDlhMDEzMV8zOF8xMy5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/AhcAf88C-xO7hWnyzqVHI_kJOfalpfUvCshlRsR0ylo/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yMTYwL3RodW1icy9vcmlnaW5hbF84MTI1OEUzMC0wQkNGLTBGNzEtQTNENC1BRTU4NUI5NUQwRjMxODQ4ZDlhMDE0OV80Ml8xNy5qcGc.jpg"
+      ],
+      "servicios_especiales": {
+        "tiene_descuento": false,
+        "garantia_cuotas": true,
+        "sin_aval": false,
+        "servicio_pro": true
+      }
+    },
+    {
+      "id": 1283,
+      "informacion_basica": {
+        "titulo": "Matucana",
+        "direccion_completa": "Matucana 31 , Santiago",
+        "comuna": "Santiago",
+        "link_propiedad": "https://www.assetplan.cl/arriendo/departamento/santiago/edificio/matucana/1283"
+      },
+      "precio": {
+        "precio_desde": "275000",
+        "precio_hasta": "430000",
+        "moneda": "CLP",
+        "precio_desde_uf": 7051,
+        "precio_hasta_uf": 11026
+      },
+      "servicios_disponibles": [
+        "Servicio Pro",
+        "Garantía en cuotas",
+        "Comisión con descuento",
+        "Opción sin garantía",
+        "Opción sin aval"
+      ],
+      "caracteristicas": [
+        "2 Dormitorios | +10 Disponibles",
+        "1 Dormitorio | 6 Disponibles",
+        "Estudio | 2 Disponibles"
+      ],
+      "imagenes": [
+        "https://d23gr057zjkjxx.cloudfront.net/zRt7IMVM6f-XXYkSN60JdUZ17dqtMQwt9ZeLozOOLAo/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8xMjgzL3RodW1icy9vcmlnaW5hbF81QTQwQTZBRC0yRUQ1LTM5MTUtNjc1OS0xNDAwNjcyN0FBQzM4ZDlhNDM0Ml8yNS5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/-j9zkg7FOiBNf1SGFGLpcAzyGvFdn4voJhn6gReZDdw/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8xMjgzL3RodW1icy9vcmlnaW5hbF9FRDg1NjQzRi0zMTVBLTk3NUYtNTk0NS1EOUVFQjc5ODgzM0U4ZDlhNDMxM185LmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/_-wwAXIwDU8i1sQRMZV2if9EV-w7fGWZQVC186XYlvw/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8xMjgzL3RodW1icy9vcmlnaW5hbF9BRDFDNjQ1Ny1EOTI0LTBEQzktOEI1OS1ENzRFQTMzRTY2NTE4ZDlhNDM0Nl8yOS5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/fYsY9imEOfcBt5ga2BuJuu3YT795tGCZFK7xkYEvGFM/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8xMjgzL3RodW1icy9vcmlnaW5hbF83NzM1OEVBQS1FREMwLUE3RDctNDQ3RC1BQ0FCRjAwQkZENDA4ZDlhNDI4OF8yLmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/WuyIaYsJKF9N-YT0ODnJafs3Oji_Q_iCXwT1fE_1nI8/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8xMjgzL3RodW1icy9vcmlnaW5hbF83NDQ0OUMzRi1CMTE4LUE5QTMtMDc5My1BM0Y1MUIyRUNCNEM4ZDlhNDI5MF8zLmpwZw.jpg"
+      ],
+      "servicios_especiales": {
+        "tiene_descuento": true,
+        "garantia_cuotas": true,
+        "sin_aval": true,
+        "servicio_pro": true
+      }
+    },
+    {
+      "id": 2274,
+      "informacion_basica": {
+        "titulo": "Midtown Santiago",
+        "direccion_completa": "Arturo Prat 621 , Santiago",
+        "comuna": "Santiago",
+        "link_propiedad": "https://www.assetplan.cl/arriendo/departamento/santiago/edificio/midtown-santiago/2274"
+      },
+      "precio": {
+        "precio_desde": "297000",
+        "precio_hasta": "523000",
+        "moneda": "CLP",
+        "precio_desde_uf": 7615,
+        "precio_hasta_uf": 13410
+      },
+      "servicios_disponibles": [
+        "Servicio Pro",
+        "Arriendo con descuento",
+        "Garantía en cuotas"
+      ],
+      "caracteristicas": [
+        "1 Dormitorio | +10 Disponibles",
+        "2 Dormitorios | 4 Disponibles",
+        "Estudio | 1 Disponible"
+      ],
+      "imagenes": [
+        "https://d23gr057zjkjxx.cloudfront.net/zDG9-DRYiUjrT30nBGRJY9yNDsNYqcHrqyhzD7LtzM4/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yMjc0L3RodW1icy9vcmlnaW5hbF9GQkJFMERBNy03QjhFLTQwNzAtREJEQy04ODdBRUQwNzVERUYxMzgyOGQ5YTM3NjBfMTk2LmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/GP7_bXOe1iF38ewd5YnDi9RvO9_NyQfGV4Z0jyuknEA/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yMjc0L3RodW1icy9vcmlnaW5hbF9GM0IwNkQ2Ny0yQTA5LTk0MjEtMjM3OS0xNDFGRjA3MjE4RkMxNDI3OGQ5YTM4MDVfMjEyLmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/wNKtQE-vAptx2ouXzdkRD2q7-vyzmix02og3gewiK_8/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yMjc0L3RodW1icy9vcmlnaW5hbF81QTcwNDRFMC01Q0RELUZERjctOTkxOC1FNUYwMTYyMjA3QzYxNDE5OGQ5YTM3OTdfMjA5LmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/BwlMAl8UwEuyid0Sq0H-B5JfFuStMT0z1RppuICcvI4/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yMjc0L3RodW1icy9vcmlnaW5hbF85OTEyNDI4QS02RTZELTNEMEQtNDY3Ri03MUQ2RDI5QjM5RTgxNDE1OGQ5YTM3OTNfMjA3LmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/O4dW5bgiIoZP8AJeZnniMOGX2WqBw7fD84r9kvM-RpQ/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yMjc0L3RodW1icy9vcmlnaW5hbF8zOUYxQTgxNy1FRTc3LTAwOTUtQzNBMy04RTNGNTY1QTNFNTExMzYxOGQ5YTM3MzlfMTkwLmpwZw.jpg"
+      ],
+      "servicios_especiales": {
+        "tiene_descuento": true,
+        "garantia_cuotas": true,
+        "sin_aval": false,
+        "servicio_pro": true
+      }
+    },
+    {
+      "id": 2580,
+      "informacion_basica": {
+        "titulo": "Claudio Gay",
+        "direccion_completa": "Claudio Gay 2547 , Santiago",
+        "comuna": "Santiago",
+        "link_propiedad": "https://www.assetplan.cl/arriendo/departamento/santiago/edificio/claudio-gay/2580"
+      },
+      "precio": {
+        "precio_desde": "280000",
+        "precio_hasta": "490000",
+        "moneda": "CLP",
+        "precio_desde_uf": 7179,
+        "precio_hasta_uf": 12564
+      },
+      "servicios_disponibles": [
+        "Servicio Pro",
+        "Arriendo con descuento",
+        "Garantía en cuotas",
+        "Comisión con descuento",
+        "Opción sin aval"
+      ],
+      "caracteristicas": [
+        "Estudio | 9 Disponibles",
+        "1 Dormitorio | 5 Disponibles",
+        "2 Dormitorios | 4 Disponibles"
+      ],
+      "imagenes": [
+        "https://d23gr057zjkjxx.cloudfront.net/8JxdIrKXNQj7o-jdhFYAlTj4o8JLSuIsHZbruDf-4M8/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yNTgwL3RodW1icy9vcmlnaW5hbF8zMDQ1M0UyNS0wNDdCLTc3ODQtQjkxMi05MEJCMDUzN0YyOEQ4ZDlhNDIxMl85MC5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/mC8MnvE0bz00Zsj7YxS042nW9bcIgJkkCmZQZIJ5r6I/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yNTgwL3RodW1icy9vcmlnaW5hbF8xQTI4OTU2NC1GMDVGLTIwMjctRDMyMC1FMTM5QzQxNzE4OTI4ZDlhNDIxNF85MS5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/eXTe7ZHQw4oEbT-dkBuZB-kpk5ywV19qoHOPIs4ctx0/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yNTgwL3RodW1icy9vcmlnaW5hbF9ERDhDMzlDRi04ODdFLTk5QzgtNjMxRi1DOUJEMjM2RTY2QTM4ZDlhNDIxOF85Mi5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/afKhzjTIQfDqVzwshX0R4N8JhWNaUSaRFUzNlonxjJw/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yNTgwL3RodW1icy9vcmlnaW5hbF83NUI0Q0ZCQS0xMDNCLTlGMEQtRDAzNy02QkFGNzU0NjVFQTg4ZDlhNDIyMV85My5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/BGqAlpDlxjJ0I3AWygruNNgRNXuqP0XyP2i5HfT23Nw/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yNTgwL3RodW1icy9vcmlnaW5hbF83ODBGREIwRi1DRUNCLTYzM0EtNjcwRS1ENjc4QzQ1MzMyMzM4ZDlhNDIyNV85NF8xMTQuanBn.jpg"
+      ],
+      "servicios_especiales": {
+        "tiene_descuento": true,
+        "garantia_cuotas": true,
+        "sin_aval": true,
+        "servicio_pro": true
+      }
+    },
+    {
+      "id": 622,
+      "informacion_basica": {
+        "titulo": "Borgetto",
+        "direccion_completa": "Radal 1227 , Quinta Normal",
+        "comuna": "Quinta Normal",
+        "link_propiedad": "https://www.assetplan.cl/arriendo/departamento/quinta-normal/edificio/borgetto/622"
+      },
+      "precio": {
+        "precio_desde": "307000",
+        "precio_hasta": "423000",
+        "moneda": "CLP",
+        "precio_desde_uf": 7872,
+        "precio_hasta_uf": 10846
+      },
+      "servicios_disponibles": [
+        "Servicio Pro",
+        "Arriendo con descuento",
+        "Garantía en cuotas",
+        "Opción sin aval"
+      ],
+      "caracteristicas": [
+        "2 Dormitorios | +10 Disponibles",
+        "3 Dormitorios | 4 Disponibles",
+        "1 Dormitorio | 2 Disponibles"
+      ],
+      "imagenes": [
+        "https://d23gr057zjkjxx.cloudfront.net/Oq0YTIAeKf6sLffUH7r7iQ389J0hzwOxtUqxO2UQ34w/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy82MjIvdGh1bWJzL29yaWdpbmFsXzQzQTgwQUE3LTIzNjgtNzQxNi1DQzc4LUY5MjNGMUJGMTRGQmRzYzA3NTczXzMzLmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/J1pa_H5KubJjf7_6fnh0H_-ju9BRTTda6_vHlVobDJ8/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy82MjIvdGh1bWJzL29yaWdpbmFsXzJCQTBGRkNCLUYxRDMtMEFDNi0yODVFLUMzQTQ3QTAzRDZGMGRzYzA3NTc3XzM1LmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/UPKqL9UPVzAAG7M1KIzc7bDmQ4rqwLpQHsP0cBThoro/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy82MjIvdGh1bWJzL29yaWdpbmFsXzBFQjEyMDJCLTY3MUEtQzkyMi1BMkRFLUFGMzUxMzUxNUNBN2RzYzA3NDY5XzQuanBn.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/1pMHzH4OjT_2nfL9qDwk947EN4jDz2KoN8m86KNOyL8/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy82MjIvdGh1bWJzL29yaWdpbmFsX0Y3QjEwQzE0LTZFQTctOEJCQi1GRUJFLUZBOTM1MjFDODZBQ2RzYzA3NDgzXzguanBn.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/8SaVRkX_tN9ugHP4xUU6esy9Nro_THLHj6FghP2DLkk/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy82MjIvdGh1bWJzL29yaWdpbmFsX0Y4ODgzNTM0LTlFN0ItMDEzOS1BQkFGLTREQ0Y1N0Q0QkVFMWRzYzA3NDQ4XzEuanBn.jpg"
+      ],
+      "servicios_especiales": {
+        "tiene_descuento": true,
+        "garantia_cuotas": true,
+        "sin_aval": true,
+        "servicio_pro": true
+      }
+    },
+    {
+      "id": 745,
+      "informacion_basica": {
+        "titulo": "Amengual",
+        "direccion_completa": "Gral Amengual 102 , Estación Central",
+        "comuna": "Estación Central",
+        "link_propiedad": "https://www.assetplan.cl/arriendo/departamento/estacion-central/edificio/amengual/745"
+      },
+      "precio": {
+        "precio_desde": "255000",
+        "precio_hasta": "410000",
+        "moneda": "CLP",
+        "precio_desde_uf": 6538,
+        "precio_hasta_uf": 10513
+      },
+      "servicios_disponibles": [
+        "Servicio Pro",
+        "Arriendo con descuento",
+        "Garantía en cuotas",
+        "Opción sin aval"
+      ],
+      "caracteristicas": [
+        "1 Dormitorio | 7 Disponibles",
+        "2 Dormitorios | 6 Disponibles",
+        "Estudio | 3 Disponibles"
+      ],
+      "imagenes": [
+        "https://d23gr057zjkjxx.cloudfront.net/OmVEPmFjC7-zY9zwwTYT-ycIV_Liev6JVCtqtpSuMYQ/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy83NDUvdGh1bWJzL29yaWdpbmFsX0FEMEM0QzQxLTQzOEUtMkVGNi1CQTZGLTc0NTlEQjZDMzYxNF9kc2MxODkwXzcyLmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/C2rsdg7NYqY2yHvLM1RLV5r35NvIiE9jb2bT1oWlqd8/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy83NDUvdGh1bWJzL29yaWdpbmFsXzA1ODlENTkxLUQ5RDgtQzY2Mi00NUQ2LURGMzFDQzMwRkFGNV9kc2MxODk0XzczLmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/ZZ90GBboWuMwYAOJ2cTbn-XwQUrYj569igAB_gpulps/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy83NDUvdGh1bWJzL29yaWdpbmFsXzQ3NERGNkU4LUY2MjktMDBCQS0xNUMxLUUzNDNBM0FFOUJFNl9kc2MxOTAwXzc1LmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/a7LkkhaaeOXLtPyGKNF34MjRhdaJty0K9ytjVj3OEvY/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy83NDUvdGh1bWJzL29yaWdpbmFsXzBDQzQwQzBDLUY1RkMtNTY3MC1BRjE2LUYyQTE3QzU0REU3MF9kc2MxOTA4Xzc3LmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/HnvjHKRTze7kzfGnLAER39-PfhWQXPaWlvw1PvsGzZ4/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy83NDUvdGh1bWJzL29yaWdpbmFsX0YyNkZFODI3LUI4RDQtOTQ0Ni1FOUM5LTE0QjI3NDkwRDA2OV9kc2MxOTE5Xzc5LmpwZw.jpg"
+      ],
+      "servicios_especiales": {
+        "tiene_descuento": true,
+        "garantia_cuotas": true,
+        "sin_aval": true,
+        "servicio_pro": true
+      }
+    },
+    {
+      "id": 3064,
+      "informacion_basica": {
+        "titulo": "Home Inclusive Ecuador",
+        "direccion_completa": "Gral. Amengual 0148 , Estación Central",
+        "comuna": "Estación Central",
+        "link_propiedad": "https://www.assetplan.cl/arriendo/departamento/estacion-central/edificio/home-inclusive-ecuador/3064"
+      },
+      "precio": {
+        "precio_desde": "276969",
+        "precio_hasta": "795000",
+        "moneda": "CLP",
+        "precio_desde_uf": 7102,
+        "precio_hasta_uf": 20385
+      },
+      "servicios_disponibles": [
+        "Servicio Pro",
+        "Arriendo con descuento",
+        "Garantía en cuotas",
+        "Opción sin aval"
+      ],
+      "caracteristicas": [
+        "1 Dormitorio | +10 Disponibles",
+        "+4 Dormitorios | 2 Disponibles",
+        "Estudio | 1 Disponible",
+        "2 Dormitorios | Notificar disponibilidad",
+        "3 Dormitorios | Notificar disponibilidad"
+      ],
+      "imagenes": [
+        "https://d23gr057zjkjxx.cloudfront.net/jUuNoxPCvT7chLZF73FTYMhf4NxqVlzzLPxZtRdD2Co/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMDY0L3RodW1icy9vcmlnaW5hbF82Mjg0NEFGNi1FMDc1LUI0QkQtQjIzMi0zQzNCMTM2NjlCRTYtZWN1YWRvcjIwLmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/c9A4AKgvoSol6AfwChrX6vVURGq2PMumTUubZIfJf24/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMDY0L3RodW1icy9vcmlnaW5hbF83QzUwN0E2OC0yMDkzLTI5OEUtMTNGNi1BOTEwNzEwQ0MyMjgtZWN1YWRvcjE3LmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/BCTJmGIzIzBwx_uINc-QH0Idnb0zZe8UtrPrkTH-WIM/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMDY0L3RodW1icy9vcmlnaW5hbF9FODNGNkNBOS05N0JELUVFNkQtOUFGMy0yOUMwMDQ5NjNDMDctbWcwMzA5LmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/6uQHpZ9TMZhIbXsaEOJ5IVvwrwZzHHY1RJyqwQ1CLoM/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMDY0L3RodW1icy9vcmlnaW5hbF9BN0U4NUYxRi1DNkRFLUYwMTgtMEZBMS0yODkxREI1RDYxQTgtcGFjaW9jb211bnBpc28xMy5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/Sxt7H-i6qBNPUgnds2MtrTzuZwE7rhxyTUkfFZBY8Cw/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMDY0L3RodW1icy9vcmlnaW5hbF85RTJDNzkzOC02NTE0LTFCMUUtRUI3RC05MEI3RDlDQzQzODYtbWcwMzAwLmpwZw.jpg"
+      ],
+      "servicios_especiales": {
+        "tiene_descuento": true,
+        "garantia_cuotas": true,
+        "sin_aval": true,
+        "servicio_pro": true
+      }
+    },
+    {
+      "id": 2432,
+      "informacion_basica": {
+        "titulo": "Morande Sur",
+        "direccion_completa": "Morandé 776 , Santiago",
+        "comuna": "Santiago",
+        "link_propiedad": "https://www.assetplan.cl/arriendo/departamento/santiago/edificio/morande-sur/2432"
+      },
+      "precio": {
+        "precio_desde": "290000",
+        "precio_hasta": "410000",
+        "moneda": "CLP",
+        "precio_desde_uf": 7436,
+        "precio_hasta_uf": 10513
+      },
+      "servicios_disponibles": [
+        "Servicio Pro",
+        "Arriendo con descuento",
+        "Garantía en cuotas",
+        "Opción sin aval"
+      ],
+      "caracteristicas": [
+        "Estudio | 8 Disponibles",
+        "1 Dormitorio | 5 Disponibles",
+        "2 Dormitorios | 1 Disponible"
+      ],
+      "imagenes": [
+        "https://d23gr057zjkjxx.cloudfront.net/eh1vsWNfpkcd2akoVDh_Hb839br3BAmKQwvyr40UwTA/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yNDMyL3RodW1icy9vcmlnaW5hbF9EM0VFQkYwMC04MkM3LTIzQjItRDQyMy02RDQ4REIwMEUwNDctMTMuanBn.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/9B7KfvUf8g-3psA4WmBgLXd2u99vC0U0C9INz1dFNSk/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yNDMyL3RodW1icy9vcmlnaW5hbF81QzZEMjkzRS02OEE4LTQ3RTctQTIwRi0yRTcxRkYyRjE4N0MtNC5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/HvrOleIre8YLLbAOTCpH-1tEXBCAMZUsbN5J1usP9yU/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yNDMyL3RodW1icy9vcmlnaW5hbF8yRURGOEQyOC0zQUQ1LUQ0MzktQkNFOC1CNjU3MjZBOTk2MEItMTIuanBn.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/hl9TmT_bddsotIlQo7cTweaB7vOXGykAMOQn78JxInw/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yNDMyL3RodW1icy9vcmlnaW5hbF80MDMxMDJBNS0zRkQwLTQ2RjItMUQxOS0wRTc5QkU0NDk5NDQtNi5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/l025lO6av2FXzdF3WGolgHO1v_41RkYyNFAH9ON4GSw/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yNDMyL3RodW1icy9vcmlnaW5hbF9FODA4N0JBQS0xQjFDLUUyOUUtRDhGQy1GM0FDQjY5MEUwQTUtMi5qcGc.jpg"
+      ],
+      "servicios_especiales": {
+        "tiene_descuento": true,
+        "garantia_cuotas": true,
+        "sin_aval": true,
+        "servicio_pro": true
+      }
+    },
+    {
+      "id": 2937,
+      "informacion_basica": {
+        "titulo": "Santa Rosa",
+        "direccion_completa": "Av. Sta. Rosa 1185 , Santiago",
+        "comuna": "Santiago",
+        "link_propiedad": "https://www.assetplan.cl/arriendo/departamento/santiago/edificio/santa-rosa/2937"
+      },
+      "precio": {
+        "precio_desde": "247000",
+        "precio_hasta": "356000",
+        "moneda": "CLP",
+        "precio_desde_uf": 6333,
+        "precio_hasta_uf": 9128
+      },
+      "servicios_disponibles": [
+        "Servicio Pro",
+        "Arriendo con descuento",
+        "Garantía en cuotas",
+        "Opción sin aval"
+      ],
+      "caracteristicas": [
+        "1 Dormitorio | 8 Disponibles",
+        "2 Dormitorios | 2 Disponibles",
+        "Estudio | 1 Disponible"
+      ],
+      "imagenes": [
+        "https://d23gr057zjkjxx.cloudfront.net/0vQohZv9jip6YmHsanOMhtHuX7UwJe02MdHDOzy0F7U/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yOTM3L3RodW1icy9vcmlnaW5hbF81QkE0REQwRS01QjA1LTZGMTEtNzNBRC02NjVBMDZGNkU0NUUtbWcyMDI0MDgyMjE1NDE1NS5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/_MnX7kAZ1q2xJ49m4orm8Lw2B22Leyuk4WPRw9BJgCc/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yOTM3L3RodW1icy9vcmlnaW5hbF9DM0Q4ODIxRS02OUMyLUQxMzktMjhFMS05QzE2MUEzMUY1ODUtbWcyMDI0MDgyMjE1NDIxMC5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/ykJ4jxPAv3UfBDmEKZmxVeI6P8_TW-gkpE5KjtDw2HY/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yOTM3L3RodW1icy9vcmlnaW5hbF9GM0VBQjMyRi1FOENBLTQ0NTctQjYxQi00REYwNDRGMTQxM0UtbWcyMDI0MDgyMjE1NDIzNi5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/olNh43TI-HMxPP6xyrTVMDx5GwSCVkxBvx7iFwj6UXY/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yOTM3L3RodW1icy9vcmlnaW5hbF85ODgxMzE1NS0zQzhDLUY4MzYtNjVBNi1BODlDOUUyNzRDM0UtbWcyMDI0MDgyMjE1Mjk1NC5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/EfsnxQ46ZyJPQp56YdJcbtAPBxgYSw7PboCt6qAOHeU/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yOTM3L3RodW1icy9vcmlnaW5hbF85NjI1OTFBOC1DMUI2LTlDNjUtRUY5My1DQTUwRDU3OTYyQ0ItbWcyMDI0MDgyMjE1NDAxNS5qcGc.jpg"
+      ],
+      "servicios_especiales": {
+        "tiene_descuento": true,
+        "garantia_cuotas": true,
+        "sin_aval": true,
+        "servicio_pro": true
+      }
+    },
+    {
+      "id": 3076,
+      "informacion_basica": {
+        "titulo": "Home Inclusive Carmen",
+        "direccion_completa": "Carmen 668 , Santiago",
+        "comuna": "Santiago",
+        "link_propiedad": "https://www.assetplan.cl/arriendo/departamento/santiago/edificio/home-inclusive-carmen/3076"
+      },
+      "precio": {
+        "precio_desde": "281307",
+        "precio_hasta": "455000",
+        "moneda": "CLP",
+        "precio_desde_uf": 7213,
+        "precio_hasta_uf": 11667
+      },
+      "servicios_disponibles": [
+        "Servicio Pro",
+        "Arriendo con descuento",
+        "Garantía en cuotas",
+        "Opción sin aval"
+      ],
+      "caracteristicas": [
+        "1 Dormitorio | 5 Disponibles",
+        "2 Dormitorios | 5 Disponibles",
+        "Estudio | 1 Disponible"
+      ],
+      "imagenes": [
+        "https://d23gr057zjkjxx.cloudfront.net/TXs2Y9tjhDBRVYyK4HOpb72ECCmN7DHn2n9ek1hOohU/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMDc2L3RodW1icy9vcmlnaW5hbF9CNDA0NzU3Ni01RTVBLTIzOTMtOEMxMi0zRDQzMDlDREJFMUUtcmFsZWljYXJtZW4zMS5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/_rGVQKr6o7mq6ndi5yuCgXmYV8lfj3tQmn7K9AAnpnw/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMDc2L3RodW1icy9vcmlnaW5hbF85NkQ0NkE0MS0yOTA0LTcwMjQtNTlDMy02MDlDQzU2Q0Q1OUEtcmFsZWljYXJtZW41Ni5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/ClZMLSfBJUx3P6Qt89FPKixIP-uoGcCHeuzT3AsP2YA/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMDc2L3RodW1icy9vcmlnaW5hbF8yODc1NjNEMi0xODBBLUYxMjYtN0QwMC1GREY5QzEwNDdDQjUtcmFsZWljYXJtZW42NS5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/ZJTCwU1kOlin3tUK0Y2nyIz9ogPFgjVXgxF3FNcxKrQ/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMDc2L3RodW1icy9vcmlnaW5hbF8xQTk0MTVCNi1GRTlELTkyM0EtRDJFMy1BOTEwOUVBOTJDODUtcmFsZWljYXJtZW42Ny5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/vC7p8WhfNRii6Y4F5ahFyA0PWUp0yGjLDqYGUr3_lZs/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMDc2L3RodW1icy9vcmlnaW5hbF80MDM3NTg1Ri1GN0M3LTEyMTItMDk5OS00NkFEMzIxOEJBNzctcmFsZWljYXJtZW42My5qcGc.jpg"
+      ],
+      "servicios_especiales": {
+        "tiene_descuento": true,
+        "garantia_cuotas": true,
+        "sin_aval": true,
+        "servicio_pro": true
+      }
+    },
+    {
+      "id": 313,
+      "informacion_basica": {
+        "titulo": "Santo Domingo - MF",
+        "direccion_completa": "Santo Domingo 4272 , Quinta Normal",
+        "comuna": "Quinta Normal",
+        "link_propiedad": "https://www.assetplan.cl/arriendo/departamento/quinta-normal/edificio/santo-domingo-mf/313"
+      },
+      "precio": {
+        "precio_desde": "260000",
+        "precio_hasta": "270000",
+        "moneda": "CLP",
+        "precio_desde_uf": 6667,
+        "precio_hasta_uf": 6923
+      },
+      "servicios_disponibles": [
+        "Servicio Pro",
+        "Arriendo con descuento",
+        "Garantía en cuotas",
+        "Opción sin aval"
+      ],
+      "caracteristicas": [
+        "Estudio | +10 Disponibles",
+        "1 Dormitorio | Notificar disponibilidad",
+        "2 Dormitorios | Notificar disponibilidad"
+      ],
+      "imagenes": [
+        "https://d23gr057zjkjxx.cloudfront.net/JLDUQXfpCunkJHDaxYiJfzwhKJYw6sgHWsU9Ve8UaPM/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMTMvdGh1bWJzL29yaWdpbmFsXzBBOUM1OEMyLTAwRUEtMTE2My0wQ0JFLTYyRURCQTQ3RjM4RjhkOWEyMjEwXzgxXzU3LmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/8H8I-6tk4RXlXGsSTl2eQadf3Eyp3lxw4L19fDGNZlI/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMTMvdGh1bWJzL29yaWdpbmFsXzRCQTc1MjQ0LThBMzEtNzI4Qi1BNzFBLTFBMjcxMjE4M0U1NzhkOWEyMjE2XzgzXzU5LmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/-pF848Eqlgt4kcplg6CN8_AaZLXvA8_uRmL2hI7jWLY/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMTMvdGh1bWJzL29yaWdpbmFsX0FDQjQ0RjA3LTY3QTUtODVFOS0wMzNFLUFBNzhEOTAwRDE0RDhkOWEyMjE0XzgyXzU4LmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/6rMEYtZaocnvn-AzPEPFw7Wn2LsWjR4IWeBk2MTrefs/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMTMvdGh1bWJzL29yaWdpbmFsXzFEMzkzQkE3LTNDRjEtMUQ0NS0yQzUwLTY3RUUwNTQyNDVCNjhkOWEyMjYzXzk1XzMzLmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/ABQkEnXm4W5NN1KE3pa1qcfV8dbBtqWj7QaWimdj0lM/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMTMvdGh1bWJzL29yaWdpbmFsX0U2QkEzOTRBLUNGMzEtQjcwNi0zNUQwLTM0MkU1NjJGMzYwNjhkOWEyMjY4Xzk3XzM1LmpwZw.jpg"
+      ],
+      "servicios_especiales": {
+        "tiene_descuento": true,
+        "garantia_cuotas": true,
+        "sin_aval": true,
+        "servicio_pro": true
+      }
+    },
+    {
+      "id": 2627,
+      "informacion_basica": {
+        "titulo": "Vista San Martín",
+        "direccion_completa": "San Martín 811 , Santiago",
+        "comuna": "Santiago",
+        "link_propiedad": "https://www.assetplan.cl/arriendo/departamento/santiago/edificio/vista-san-martin/2627"
+      },
+      "precio": {
+        "precio_desde": "290000",
+        "precio_hasta": "440000",
+        "moneda": "CLP",
+        "precio_desde_uf": 7436,
+        "precio_hasta_uf": 11282
+      },
+      "servicios_disponibles": [
+        "Servicio Pro",
+        "Arriendo con descuento",
+        "Garantía en cuotas",
+        "Opción sin aval"
+      ],
+      "caracteristicas": [
+        "1 Dormitorio | 8 Disponibles",
+        "2 Dormitorios | 1 Disponible",
+        "Estudio | 1 Disponible"
+      ],
+      "imagenes": [
+        "https://d23gr057zjkjxx.cloudfront.net/U1apPsBfbQvkpibjU4d6YeManPiErAs8TmiQd47_CkQ/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yNjI3L3RodW1icy9vcmlnaW5hbF8xMzM3MkJGNi0xMTJGLUI3RDgtQTA3OS0xQTJFM0Q2QTFDMTM4MzQ4ZDlhMjgxMl8yNDIuanBn.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/nx2ob5R_Yop0eSx7fI4H1RBK7wNEeRwTGCsRgSZNRgY/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yNjI3L3RodW1icy9vcmlnaW5hbF9DNzMwQzE3NS0wOEQ2LTZFMzAtMDYxNi05RTRBNkQwMkMyQTY4MTM4ZDlhMjc5MV8yMzUuanBn.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/u-0zOp0d60IG6IDmFmN00k34oRVkInphx8pkwK9TUKY/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yNjI3L3RodW1icy9vcmlnaW5hbF9DOEU1MkRFNi1EOTlDLTREM0EtMjEyOS0xMDE3Njg0NEQ5NkE3OTU4ZDlhMjc3M18yMjkuanBn.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/hatmJREGgtYqoxsPje_ZhGfFgW8HC5PxblJ9JgNKgnE/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yNjI3L3RodW1icy9vcmlnaW5hbF8zQTkyQjUzMi1BOENBLTJEMzMtRTkzMC04QUFFMDYxQzAzMjQ4MDQ4ZDlhMjc4Ml8yMzIuanBn.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/MMPk7fRsfbRyo9ihT_ApMbhPMFjdr-RrXfPKONNZgUQ/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yNjI3L3RodW1icy9vcmlnaW5hbF84Rjg0RDhGRC1FMjhBLTI4QjktQjg3NC0xQjE2M0MwODJBNTA3OTI4ZDlhMjc3MF8yMjguanBn.jpg"
+      ],
+      "servicios_especiales": {
+        "tiene_descuento": true,
+        "garantia_cuotas": true,
+        "sin_aval": true,
+        "servicio_pro": true
+      }
+    },
+    {
+      "id": 2559,
+      "informacion_basica": {
+        "titulo": "Romero",
+        "direccion_completa": "Romero 2349 , Santiago",
+        "comuna": "Santiago",
+        "link_propiedad": "https://www.assetplan.cl/arriendo/departamento/santiago/edificio/romero/2559"
+      },
+      "precio": {
+        "precio_desde": "306000",
+        "precio_hasta": "476000",
+        "moneda": "CLP",
+        "precio_desde_uf": 7846,
+        "precio_hasta_uf": 12205
+      },
+      "servicios_disponibles": [
+        "Servicio Pro",
+        "Arriendo con descuento",
+        "Garantía en cuotas",
+        "Opción sin aval"
+      ],
+      "caracteristicas": [
+        "2 Dormitorios | 5 Disponibles",
+        "1 Dormitorio | 3 Disponibles",
+        "Estudio | 1 Disponible"
+      ],
+      "imagenes": [
+        "https://d23gr057zjkjxx.cloudfront.net/EuSCJQVM98qvuVxq9sCH9k84f4kBVGBhJDBMLpVijLg/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yNTU5L3RodW1icy9vcmlnaW5hbF81NzcyNjA1Mi1FOTM2LUIyNkItRTlCRi1EMjFBM0QwN0IzNUE4ZDlhMzMwNF8xMDhfMTAxLmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/kCg-JaLUbH_z-iVX6Qy_JbT1640uC7WuVyxRjMhwG7c/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yNTU5L3RodW1icy9vcmlnaW5hbF80RURCOUQxMC1EMEM1LTZBN0EtNEM2OC1GMTZEMjQ5NTI0MkQ4ZDlhMzMwN18xMDlfMTAyLmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/yOgcHOeXHm4_41hEOahrlaZSVeiXYXUgCM2c7qaekpc/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yNTU5L3RodW1icy9vcmlnaW5hbF81NEUxNUZBMi0xQUE0LUMzNkEtNUMwOS0wMTIwMzY0RjhBRDc4ZDlhNzM1MF8xNl8xNS5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/LzTywrgi_QfCnK0jOW-2kjz-AspH2_T02cVFh7BvSq0/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yNTU5L3RodW1icy9vcmlnaW5hbF9CMTY5OEQzMS03NzBCLTFCNjgtMTMyRS0zNDg2ODhFOUZBRjk4ZDlhNzM1MV8xN18xNi5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/nif7kqh5nF8pYSJY_OKaak2G4vnwyZbjAgXbpWvXN6M/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yNTU5L3RodW1icy9vcmlnaW5hbF9EQjkyMTJEMi1FRDA3LTczQzktMzk3Ny0wRTEyQUZBQkFGRjc4ZDlhNzM1NF8xOF8xNy5qcGc.jpg"
+      ],
+      "servicios_especiales": {
+        "tiene_descuento": true,
+        "garantia_cuotas": true,
+        "sin_aval": true,
+        "servicio_pro": true
+      }
+    },
+    {
+      "id": 3173,
+      "informacion_basica": {
+        "titulo": "Stage San Diego",
+        "direccion_completa": "San Diego 135 , Santiago",
+        "comuna": "Santiago",
+        "link_propiedad": "https://www.assetplan.cl/arriendo/departamento/santiago/edificio/stage-san-diego/3173"
+      },
+      "precio": {
+        "precio_desde": "293000",
+        "precio_hasta": "456000",
+        "moneda": "CLP",
+        "precio_desde_uf": 7513,
+        "precio_hasta_uf": 11692
+      },
+      "servicios_disponibles": [
+        "Servicio Pro",
+        "Arriendo con descuento",
+        "Garantía en cuotas"
+      ],
+      "caracteristicas": [
+        "2 Dormitorios | 8 Disponibles",
+        "Estudio | 1 Disponible",
+        "1 Dormitorio | Notificar disponibilidad"
+      ],
+      "imagenes": [
+        "https://d23gr057zjkjxx.cloudfront.net/v-9Sv3a88lDrF5DGnbWrc7VyYlg8FeNcOP06Qd4BX50/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMTczL3RodW1icy9vcmlnaW5hbF85QjZDNTIzMy02NEI3LTk4OTEtNzNEMy1BQzQ0RDA3NzBFMDIyLmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/GgLC2ReqgsHxiuezrL5oyhUrPK9Q4xRq4nUfYdPNwmI/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMTczL3RodW1icy9vcmlnaW5hbF80QUJFODFDOC1FMTc4LUE2NDMtRDU4MC03NzdBMkMxNjk2NjExLmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/k2eqHZr5W8rzAv8x-l4XSb_qc0bsNAAwI0C7-0zihqY/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMTczL3RodW1icy9vcmlnaW5hbF8wRTk0NjZDMy1BRTc0LTIxMzAtN0YyMC05NjEwMEM2MzBDNzgzLmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/bRXtJS2GOYePlnRK_v0Ql3VnTkblqTG0guTcWedKU1c/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMTczL3RodW1icy9vcmlnaW5hbF82RjkzRjM0NS03RTYyLUE1OEUtODczQi01RERBMDk0MUE5RDM0LmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/eGvNJDoA-387QV4hfo8PYE2pg51QrpbZVlGpId4ymH0/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMTczL3RodW1icy9vcmlnaW5hbF80RTFCRkY3NS1DMUZCLTIxQUEtMDc0Ri04NkFGMjUyNDY0RDM1LmpwZw.jpg"
+      ],
+      "servicios_especiales": {
+        "tiene_descuento": true,
+        "garantia_cuotas": true,
+        "sin_aval": false,
+        "servicio_pro": true
+      }
+    },
+    {
+      "id": 783,
+      "informacion_basica": {
+        "titulo": "Alameda Park",
+        "direccion_completa": "Av Libertador Bernardo O'Higgins 4320 , Estación Central",
+        "comuna": "Estación Central",
+        "link_propiedad": "https://www.assetplan.cl/arriendo/departamento/estacion-central/edificio/alameda-park/783"
+      },
+      "precio": {
+        "precio_desde": "290000",
+        "precio_hasta": "410000",
+        "moneda": "CLP",
+        "precio_desde_uf": 7436,
+        "precio_hasta_uf": 10513
+      },
+      "servicios_disponibles": [
+        "Servicio Pro",
+        "Arriendo con descuento",
+        "Garantía en cuotas",
+        "Opción sin aval"
+      ],
+      "caracteristicas": [
+        "2 Dormitorios | 5 Disponibles",
+        "1 Dormitorio | 3 Disponibles",
+        "3 Dormitorios | Notificar disponibilidad",
+        "Estudio | Notificar disponibilidad"
+      ],
+      "imagenes": [
+        "https://d23gr057zjkjxx.cloudfront.net/hEOPGjero4kYpziZWL9SURhz2sdioxbOyxqjfCNHurw/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy83ODMvdGh1bWJzL29yaWdpbmFsXzRBNzFGM0FELTlEMkMtNEUxRS03RDczLTQ3QTBBRjlDOTdDOWRzYzA4MzYxXzUzLmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/aUiWlnJ0dPEKUCshSARRYo31H68PjBworjBO_WJ78LE/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy83ODMvdGh1bWJzL29yaWdpbmFsXzhCMjEzMzcyLTM1NEQtNUMyNi1EQzU5LUE3REM2OUQzRkJCQ2RzYzA4MjQxXzIuanBn.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/2GTnP-zo-Gb9MqF0PWwRtI3pz_E1OURb1HE2vZFYTeM/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy83ODMvdGh1bWJzL29yaWdpbmFsXzBBMjJGNzBELTRBRkYtNzZFMi0zMUIzLTRFNDMxOUE3N0REQ2RzYzA4MjcyXzEyLmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/L7ZQIovipfCI14yviODzgUw4xP3GcK-zt_wCjhhBQcI/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy83ODMvdGh1bWJzL29yaWdpbmFsX0JGMTE5M0U1LTVDNjAtNjA0NC1BRUJFLUEwNUIzQkRDRjE5NGRzYzA4Mjk2XzIyLmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/BGcrO0FKZRJ9gEmGPslmP8NXamIfukaDTujczwjezvE/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy83ODMvdGh1bWJzL29yaWdpbmFsXzQ5OUFEQzc3LTY5MjktQTI0QS0xNzM4LTYyRTBDMTk1ODFGQ2RzYzA4MzcxXzU4LmpwZw.jpg"
+      ],
+      "servicios_especiales": {
+        "tiene_descuento": true,
+        "garantia_cuotas": true,
+        "sin_aval": true,
+        "servicio_pro": true
+      }
+    },
+    {
+      "id": 1747,
+      "informacion_basica": {
+        "titulo": "Mirador Gamero",
+        "direccion_completa": "Gamero 1363 , Independencia",
+        "comuna": "Independencia",
+        "link_propiedad": "https://www.assetplan.cl/arriendo/departamento/independencia/edificio/mirador-gamero/1747"
+      },
+      "precio": {
+        "precio_desde": "314000",
+        "precio_hasta": "420000",
+        "moneda": "CLP",
+        "precio_desde_uf": 8051,
+        "precio_hasta_uf": 10769
+      },
+      "servicios_disponibles": [
+        "Servicio Pro",
+        "Arriendo con descuento",
+        "Garantía en cuotas",
+        "Opción sin aval"
+      ],
+      "caracteristicas": [
+        "1 Dormitorio | 7 Disponibles",
+        "2 Dormitorios | 1 Disponible",
+        "3 Dormitorios | Notificar disponibilidad"
+      ],
+      "imagenes": [
+        "https://d23gr057zjkjxx.cloudfront.net/bgY_LU0n9ux6vGu8MCkGIxBPsInBjyImI6eZYhupbgU/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8xNzQ3L3RodW1icy9vcmlnaW5hbF8wMzQ3QTlDNC1FOURBLUEyMEEtRjFDQy04OTgxRDUyMTBDQTg4ZDlhMTc3OV8xOTZfd2ViLmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/ZGm_LFhxAYeKjnhIrG0CS1dTqcnhjCD_0GIUZot3_vY/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8xNzQ3L3RodW1icy9vcmlnaW5hbF83MzVDQzIyRS0wNTBCLUMyMEEtRDBFMy1BMjRDRTU2MjVDMTA4ZDlhMTc4Ml8xOTdfd2ViLmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/JG6rQv0uai_R0fWQJSQXKUXz7wWHGnEQ778uCWjnIJE/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8xNzQ3L3RodW1icy9vcmlnaW5hbF9EQTdBMzU3Qy1BODlCLUY5QzEtNTVCQi0xMDUxMjgyQUUzMDM4ZDlhNTcxN18xMzMuanBn.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/vIwGvMf4V4xqHPGMmDqfu4EYqgaSSdNU3k_-ErSsM5k/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8xNzQ3L3RodW1icy9vcmlnaW5hbF9GM0M2RENDMy0yREZDLUE3MEUtNzFGNy1GMzVCNjc2ODhBOUQ4ZDlhNTcyNF8xMzYuanBn.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/DSiTy_yRejZdTct1YVGoXKksEhmR4xm_mwY99dT6SSE/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8xNzQ3L3RodW1icy9vcmlnaW5hbF9CQkI4QjUzRi04NjI1LUREMTItMEEzMy1CQTk5OTc1MzRFOTE4ZDlhNTczMF8xMzguanBn.jpg"
+      ],
+      "servicios_especiales": {
+        "tiene_descuento": true,
+        "garantia_cuotas": true,
+        "sin_aval": true,
+        "servicio_pro": true
+      }
+    },
+    {
+      "id": 3138,
+      "informacion_basica": {
+        "titulo": "Nueva Valdés",
+        "direccion_completa": "Nueva de Valdés 657 , Santiago",
+        "comuna": "Santiago",
+        "link_propiedad": "https://www.assetplan.cl/arriendo/departamento/santiago/edificio/nueva-valdes/3138"
+      },
+      "precio": {
+        "precio_desde": "275000",
+        "precio_hasta": "420000",
+        "moneda": "CLP",
+        "precio_desde_uf": 7051,
+        "precio_hasta_uf": 10769
+      },
+      "servicios_disponibles": [
+        "Servicio Pro",
+        "Arriendo con descuento",
+        "Garantía en cuotas",
+        "Opción sin aval"
+      ],
+      "caracteristicas": [
+        "2 Dormitorios | 5 Disponibles",
+        "1 Dormitorio | 2 Disponibles",
+        "Estudio | 1 Disponible"
+      ],
+      "imagenes": [
+        "https://d23gr057zjkjxx.cloudfront.net/B0Z6qSFmhc_jejPIV6JxEMcKnK3a88Lb7Bu-7s5Dq0E/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMTM4L3RodW1icy9vcmlnaW5hbF8zODRDOUNGNy03RjBBLUNFQUQtMTU4My00NjJGNTc2QjlEOUJoYWxsX2RlX2FjY2Vzby5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/peeFgwa0bardMiK20gwAObvLXnvP0kUFzoV91bS2ysY/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMTM4L3RodW1icy9vcmlnaW5hbF9ERDQzRUNBNy03NzFBLUUxRjctN0FCQy03NUFERjBDMEMyODJzYWwlQzMlOTNuX2dvdXJtZXQuanBn.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/qtvx2hcU5AB9xncgehrEfjkQz3vpGp-D5tOoLcJgkts/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMTM4L3RodW1icy9vcmlnaW5hbF84Q0JGMzBGMy01M0FCLTY2RDctREJFNS1DNjU3NkFDNjFDRUFzYWwlQzMlOTNuX2dvdXJtZXRfZm90b18yLmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/NW7epp9GEO6cdgAqdaS1fj32Dxtbdr3UMM53YP6MXx0/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMTM4L3RodW1icy9vcmlnaW5hbF84REZEQkYzRi0wQkFCLTQxQkYtNDk3RS04RjAzMDI0M0MzQzJzYWwlQzMlOTNuX2NvX3dvcmsuanBn.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/eyt1o2Op_1rS2I9BAny36lilUAsPse1-8FqPjqMZXqU/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMTM4L3RodW1icy9vcmlnaW5hbF8yOERFMTZCNS03OTkzLTg3MjQtOTYxMy1BNDQwNjM1RjhCMTZxdWluY2hvX3RvcnJlX2EuanBn.jpg"
+      ],
+      "servicios_especiales": {
+        "tiene_descuento": true,
+        "garantia_cuotas": true,
+        "sin_aval": true,
+        "servicio_pro": true
+      }
+    },
+    {
+      "id": 2584,
+      "informacion_basica": {
+        "titulo": "Vive Santa Isabel",
+        "direccion_completa": "Av. Sta. Rosa 537 , Santiago",
+        "comuna": "Santiago",
+        "link_propiedad": "https://www.assetplan.cl/arriendo/departamento/santiago/edificio/vive-santa-isabel/2584"
+      },
+      "precio": {
+        "precio_desde": "270000",
+        "precio_hasta": "495000",
+        "moneda": "CLP",
+        "precio_desde_uf": 6923,
+        "precio_hasta_uf": 12692
+      },
+      "servicios_disponibles": [
+        "Servicio Pro",
+        "Arriendo con descuento",
+        "Garantía en cuotas",
+        "Opción sin aval"
+      ],
+      "caracteristicas": [
+        "Estudio | 5 Disponibles",
+        "2 Dormitorios | 2 Disponibles",
+        "1 Dormitorio | Notificar disponibilidad"
+      ],
+      "imagenes": [
+        "https://d23gr057zjkjxx.cloudfront.net/QbG-y6X_6OEM_0hPUZ6fvK7PGOYYTydVBTM9bNN69co/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yNTg0L3RodW1icy9vcmlnaW5hbF8yMDk3QkJGNy1DQTE1LTVBMzAtQkM0Ri1CNTE0N0NDMkRDMkY4ZDlhMzQ0NV8yMF8xNS5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/KS-jhz11DeIAOXGCzKeIU7mvAF3MqKHFGvqM_jgDNFk/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yNTg0L3RodW1icy9vcmlnaW5hbF80N0Q5ODU4OS01OEM5LUNDQ0ItQzhDQy0wQzU5QjFDQkE3Qjk4ZDlhMzQ0MF8xN18xMi5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/5wRLN6gHXI9ocrJc9hVFrA5z6Gwl_2ey2bb7EF7xXks/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yNTg0L3RodW1icy9vcmlnaW5hbF9DRTI5MTc4OS1BNUUyLTY4QTMtMzJBRS0wMzREODNEQTc4ODc4ZDlhMzY3Nl8xMDBfMTIuanBn.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/SuCyq_mXsOvFaPMfjCxqizxWtFoQGdSB-J_-U0GZaoM/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yNTg0L3RodW1icy9vcmlnaW5hbF8yQ0U0OUMzMS0zMUI5LTczNTctQUY3QS1FQjM1QTJGNjlBMDE4ZDlhMzY5MF8xMDRfMTYuanBn.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/SmlDZlNGGCJd_UEReEq2cmR2PoKIaisCvCN1T40gLgU/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yNTg0L3RodW1icy9vcmlnaW5hbF81NjFCRTQzQi1BQTZCLTMxMEQtM0U2MS1DNkNBNTIyNUNFNjc4ZDlhMzcxNF8xMTJfOTEuanBn.jpg"
+      ],
+      "servicios_especiales": {
+        "tiene_descuento": true,
+        "garantia_cuotas": true,
+        "sin_aval": true,
+        "servicio_pro": true
+      }
+    },
+    {
+      "id": 3339,
+      "informacion_basica": {
+        "titulo": "Sazié",
+        "direccion_completa": "Sazié 2357 , Santiago",
+        "comuna": "Santiago",
+        "link_propiedad": "https://www.assetplan.cl/arriendo/departamento/santiago/edificio/sazie/3339"
+      },
+      "precio": {
+        "precio_desde": "275000",
+        "precio_hasta": "329000",
+        "moneda": "CLP",
+        "precio_desde_uf": 7051,
+        "precio_hasta_uf": 8436
+      },
+      "servicios_disponibles": [
+        "Servicio Pro",
+        "Arriendo con descuento",
+        "Garantía en cuotas",
+        "Opción sin aval"
+      ],
+      "caracteristicas": [
+        "Estudio | 7 Disponibles"
+      ],
+      "imagenes": [
+        "https://d23gr057zjkjxx.cloudfront.net/pQMT0T2Vx9GELKlKseU_U-IpfLnOzmedDvUmY_Evglc/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMzM5L3RodW1icy9vcmlnaW5hbF8zMTk0MEZBNS1FMkRFLUZERUEtQjI5Mi02NDQwMThDMDY4RkRpbWdfMDgwNC5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/qsztp9wu9GMHJsYPI7sTooPW44OBE0kiPNMFc0JzeJs/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMzM5L3RodW1icy9vcmlnaW5hbF9CRERGQTZENC00OTFCLTUxMjYtOTA0QS1CRUMyQzgzMEQ0QUZpbWdfMDgxNS5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/rCbCWkSRNDZzSEfVC2ppidQLB1I5IjjVbtuVxkgYJvk/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMzM5L3RodW1icy9vcmlnaW5hbF9DRjA2QTcxMC1GOTMxLTI1MDctOTVCQi1CM0NCNzNENUVDREFmb3RvX2FudW5jaW9fMS5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/uMjitxlKfP3sIlkT73P6tBP7WshYE24LVzpTJXaYIEY/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMzM5L3RodW1icy9vcmlnaW5hbF9GRTE4QTlGOC1DM0RFLUM3NzYtQ0ZDRC03NzY3REZFODg5N0RpbWdfMDc5Mi5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/V1idgNZ5vGvyK27Sdebe5g8Hy7qJ9PdBU3vo_UuNKfA/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMzM5L3RodW1icy9vcmlnaW5hbF8yMkRBNjYxMi05QkI5LTU4MkQtNjdFMS03MUExOUFBNzgzNUFpbWdfMDc5Ni5qcGc.jpg"
+      ],
+      "servicios_especiales": {
+        "tiene_descuento": true,
+        "garantia_cuotas": true,
+        "sin_aval": true,
+        "servicio_pro": true
+      }
+    },
+    {
+      "id": 1916,
+      "informacion_basica": {
+        "titulo": "Echaurren",
+        "direccion_completa": "Pje. Echaurren 40 , Santiago",
+        "comuna": "Santiago",
+        "link_propiedad": "https://www.assetplan.cl/arriendo/departamento/santiago/edificio/echaurren/1916"
+      },
+      "precio": {
+        "precio_desde": "343000",
+        "precio_hasta": "520000",
+        "moneda": "CLP",
+        "precio_desde_uf": 8795,
+        "precio_hasta_uf": 13333
+      },
+      "servicios_disponibles": [
+        "Servicio Pro",
+        "Garantía en cuotas",
+        "Opción sin aval"
+      ],
+      "caracteristicas": [
+        "1 Dormitorio | 4 Disponibles",
+        "2 Dormitorios | 1 Disponible",
+        "3 Dormitorios | Notificar disponibilidad",
+        "Estudio | Notificar disponibilidad"
+      ],
+      "imagenes": [
+        "https://d23gr057zjkjxx.cloudfront.net/p0QbaX7VxyQ-L6pYCBcXtk-BjlarQRO6a9DDqNadO8g/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8xOTE2L3RodW1icy9vcmlnaW5hbF9BOTBEQzc3RC05QzU3LUE5NTctM0Y2OS0xREQ3RTEwNjJEMEFmYWNoYWRhLmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/jZYSDX9vhdR_1ycYk7v1zMisa5w0fkdNgesB4QQ0OTo/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8xOTE2L3RodW1icy9vcmlnaW5hbF8zNTlCQzI5Mi1CNUI5LTRFMkQtNUQ0My00QjEyQTk1MzZBQUM4ZDlhMTE0Ml85OF84MS5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/_P1Kfw4hCImEp8r3U9DXUSjc3hB2fGQf6Q43NNh7dsU/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8xOTE2L3RodW1icy9vcmlnaW5hbF9DODlCNDA4NC0zMjgzLTEzNjctQzgwNy01MjdBRUQ1QTY4ODU4ZDlhMTA5NV83MV81NC5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/MUcgMS8wXtpPM55cZ7f-YNpgHTUgiWX9zmlx6DGzQL0/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8xOTE2L3RodW1icy9vcmlnaW5hbF80NjQyNzhDRC1FQTkyLTQ5RTMtRjBDOC04OEU5NkM4MDM2OUY4ZDlhMTEwOV83OV82Mi5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/nRltTErsn2QybmZYQ90mSMJdDe7zh7IUYS_QiO-CyJE/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8xOTE2L3RodW1icy9vcmlnaW5hbF9GRTg5NkI1NC0xNjE1LUI3MUItOTU4Qi0wQ0M3NzlERjRFNDc4ZDlhMTEwNF83N182MC5qcGc.jpg"
+      ],
+      "servicios_especiales": {
+        "tiene_descuento": false,
+        "garantia_cuotas": true,
+        "sin_aval": true,
+        "servicio_pro": true
+      }
+    },
+    {
+      "id": 3069,
+      "informacion_basica": {
+        "titulo": "Home Inclusive Ejército",
+        "direccion_completa": "Av. Ejército Libertador 71 , Santiago",
+        "comuna": "Santiago",
+        "link_propiedad": "https://www.assetplan.cl/arriendo/departamento/santiago/edificio/home-inclusive-ejercito/3069"
+      },
+      "precio": {
+        "precio_desde": "315000",
+        "precio_hasta": "346500",
+        "moneda": "CLP",
+        "precio_desde_uf": 8077,
+        "precio_hasta_uf": 8885
+      },
+      "servicios_disponibles": [
+        "Servicio Pro",
+        "Arriendo con descuento",
+        "Garantía en cuotas",
+        "Opción sin aval"
+      ],
+      "caracteristicas": [
+        "1 Dormitorio | 4 Disponibles",
+        "2 Dormitorios | Notificar disponibilidad",
+        "Estudio | Notificar disponibilidad"
+      ],
+      "imagenes": [
+        "https://d23gr057zjkjxx.cloudfront.net/7dRX7lhIpANjoagB0_I17tkVpir798pYb1kPYQ5SnGE/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMDY5L3RodW1icy9vcmlnaW5hbF9GNzczQzExQi1FRENELUQ1NjktOEQzQy0xNzIyQjE4QTA2M0ItZWplcmNpdG8zMDBkcGkzMC5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/eyT7wrecophYP5bWIJ10xMDsyXQfYp1YnH2P-IREbV4/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMDY5L3RodW1icy9vcmlnaW5hbF9CNkUxNTI3Mi04RUQwLUFDMDAtN0M0RS01MUMzMjIzQTU1NzItaW1nNTk5MC5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/NNecVXDC8lnX6cfg9kbdTkb62wdqGpzhLYXEYlsJ-VY/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMDY5L3RodW1icy9vcmlnaW5hbF81NTFGQzlDOS01Q0E1LTc0NDItNzE3Ni00Q0UwNjI4QzU5N0UtZWplcmNpdG83MmRwaTM3LmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/R_m_MDMuDRcvT2RvPrk15vWnC5x_3j14sh2Z8JBOPx8/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMDY5L3RodW1icy9vcmlnaW5hbF9BOTE1NThBMy0zNjY1LTJBNTQtNkZEQy1GMTZEQUQyQzE1QUEtaWxsb25lc2FtYXJpbGxvcy5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/K_6zxi-LHxKpqu9WrGfQq2hR1nONAwyb4-YUzwgnTmw/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMDY5L3RodW1icy9vcmlnaW5hbF84ODc1Rjk1Qi0xQTFFLTFFNzQtMjY4NC02NDM4RDU0ODM0QzEtZWplcmNpdG83MmRwaTIwLmpwZw.jpg"
+      ],
+      "servicios_especiales": {
+        "tiene_descuento": true,
+        "garantia_cuotas": true,
+        "sin_aval": true,
+        "servicio_pro": true
+      }
+    },
+    {
+      "id": 2829,
+      "informacion_basica": {
+        "titulo": "Carrera Capital",
+        "direccion_completa": "José Miguel Carrera 68 , Santiago",
+        "comuna": "Santiago",
+        "link_propiedad": "https://www.assetplan.cl/arriendo/departamento/santiago/edificio/carrera-capital/2829"
+      },
+      "precio": {
+        "precio_desde": "310000",
+        "precio_hasta": "515000",
+        "moneda": "CLP",
+        "precio_desde_uf": 7949,
+        "precio_hasta_uf": 13205
+      },
+      "servicios_disponibles": [
+        "Servicio Pro",
+        "Garantía en cuotas",
+        "Opción sin garantía",
+        "Opción sin aval"
+      ],
+      "caracteristicas": [
+        "2 Dormitorios | 1 Disponible",
+        "Estudio | 1 Disponible",
+        "1 Dormitorio | Notificar disponibilidad"
+      ],
+      "imagenes": [
+        "https://d23gr057zjkjxx.cloudfront.net/FgASBLPE72ShODZ5xXrQN2q0QfwfPVNe_OtZ4xJ8fKU/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yODI5L3RodW1icy9vcmlnaW5hbF82MjVFRUNFQS05OTdELUZCMEMtMkFBQS1BQ0NGOUMyOTBFNUY4ZDlhNTk3MV82Ml8yMi5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/iE5_TUevYOQ7B30TizBM9efj42vvlv5iIp88DmVyKzw/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yODI5L3RodW1icy9vcmlnaW5hbF8wQUQwQkI2Ri00NTgwLUQxRUQtOTQ1OC0zQTc1MUNFNjE4QTA4ZDlhMzg3OF8xNjhfMjguanBn.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/S5hSrBeATk_BYXRRcVQECvgGQmfmtkb79VuIXQXEmgQ/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yODI5L3RodW1icy9vcmlnaW5hbF8zM0YzQkNFNy1BNjc1LTU1MzgtMkI2Ny03QzY1ODIyRTM3NDA4ZDlhNTk2OF82MV8yMS5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/PDKDvJKfgEqft4RurkZ3QfUy8g0F4N7EgsKzlVTLWZQ/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yODI5L3RodW1icy9vcmlnaW5hbF8wMTZFNjIyMy0zMjYzLTZEQkMtQTk3Qy04MUQxMEFEMDk2NDM4ZDlhNTk2NF81N18xNy5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/DIXnY5m5sP1I62DWHMOXu3WGGYzUv491KDPUsTIfPNs/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yODI5L3RodW1icy9vcmlnaW5hbF9DOEY4RTk1MC1CNTVFLUQ5REQtODlENC02MDc0NjkzQzU3NTI4ZDlhNTk4Nl82N180NC5qcGc.jpg"
+      ],
+      "servicios_especiales": {
+        "tiene_descuento": false,
+        "garantia_cuotas": true,
+        "sin_aval": true,
+        "servicio_pro": true
+      }
+    },
+    {
+      "id": 2989,
+      "informacion_basica": {
+        "titulo": "Mirador Santiago",
+        "direccion_completa": "Av. Ejército Libertador 50 , Santiago",
+        "comuna": "Santiago",
+        "link_propiedad": "https://www.assetplan.cl/arriendo/departamento/santiago/edificio/mirador-santiago/2989"
+      },
+      "precio": {
+        "precio_desde": "305000",
+        "precio_hasta": "360000",
+        "moneda": "CLP",
+        "precio_desde_uf": 7821,
+        "precio_hasta_uf": 9231
+      },
+      "servicios_disponibles": [
+        "Servicio Pro",
+        "Opción sin aval"
+      ],
+      "caracteristicas": [
+        "1 Dormitorio | 1 Disponible",
+        "Estudio | 1 Disponible"
+      ],
+      "imagenes": [
+        "https://d23gr057zjkjxx.cloudfront.net/IdZYMJiC2R_5mALVrbeoFtKHVgHz5utyW7tvbxN8kvk/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yOTg5L3RodW1icy9vcmlnaW5hbF9BODcwODg3RS0xNTI1LUQ5RkMtRDVCMy1DNEREODVEN0M4NDk4ZDlhNTcxMF8xXzEyLmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/TPkKTG7ylrncBXdtK-lEuvVAe-4c6EAl1kAPxd9NmDA/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yOTg5L3RodW1icy9vcmlnaW5hbF83RDNDMzUxNS01NTIwLURBQ0QtQTdGNy0xRjEyNTdEQTQyMEM4ZDlhNTcxM18yXzEzLmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/mZ0vx4MkSa7j-Y0tfX9mnEIfYxCiUm1M2KeoG3mKnRg/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yOTg5L3RodW1icy9vcmlnaW5hbF8xQUMxMjk0RS02Q0Q2LTQ1NjEtRUUxNi05M0MyNkFEMTNDQzc4ZDlhNTcyMV82XzE3LmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/NULKT0HaquW43wWwZKltet584tmfLrfK4SnQ_fvT8yo/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yOTg5L3RodW1icy9vcmlnaW5hbF9DRTZBNzgyNC1FNEU2LUJFODEtQjI1NS0wNzY1NzgzOEE1M0E4ZDlhNTcxNV80XzE1LmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/pIs1Apnc_J4T_ZMc628EwYkRorNSywl0O6y_bmvgMzA/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yOTg5L3RodW1icy9vcmlnaW5hbF9CNTI1NTdGMS1EMjFELUIyRjYtQkRGRi00N0UwMjc0MTBFNzZmcm9udGlzX21fc2FudGlhZ29fLV8wMS5qcGc.jpg"
+      ],
+      "servicios_especiales": {
+        "tiene_descuento": false,
+        "garantia_cuotas": false,
+        "sin_aval": true,
+        "servicio_pro": true
+      }
+    },
+    {
+      "id": 3205,
+      "informacion_basica": {
+        "titulo": "MAT",
+        "direccion_completa": "Manuel Antonio Tocornal 343 , Santiago",
+        "comuna": "Santiago",
+        "link_propiedad": "https://www.assetplan.cl/arriendo/departamento/santiago/edificio/mat/3205"
+      },
+      "precio": {
+        "precio_desde": null,
+        "precio_hasta": null,
+        "moneda": "CLP",
+        "precio_desde_uf": null,
+        "precio_hasta_uf": null
+      },
+      "servicios_disponibles": [
+        "Servicio Pro",
+        "Arriendo con descuento",
+        "Garantía en cuotas",
+        "Opción sin aval"
+      ],
+      "caracteristicas": [
+        "1 Dormitorio | 2 Disponibles",
+        "2 Dormitorios | Notificar disponibilidad"
+      ],
+      "imagenes": [
+        "https://d23gr057zjkjxx.cloudfront.net/qSXV8nMQzBf2D5dBkN-UlbpU5wwxspx46SdIlu1TIn8/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMjA1L3RodW1icy9vcmlnaW5hbF8yNDI5OEIwQi05QzE0LUM4OTMtNkE3MC05ODRGQ0E2MUVGMUZ0b2Nvcm5hbF8xLmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/xANWEyt9MyHHyCsR7-_IO9-BF4vfgLWzxPh4LQhKUHw/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMjA1L3RodW1icy9vcmlnaW5hbF84MjQ1OTFDQy04MTA2LUU5MjUtQzFDMi0xMTIyQ0MwMjI1MkN0b2Nvcm5hbF8zLmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/18S4270sla1FybpPewGcdeYtLXtDzlDzkfKguiIM1CE/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMjA1L3RodW1icy9vcmlnaW5hbF84NDFCN0I0My0zQTM3LUE0OUYtNUYxMC01MENGMjBFODdCRDJ0b2Nvcm5hbF8yLmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/dGf9f-kvyXWWoFSFiEJ_3KRijKUOmNo2e0bUNnxDFgg/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMjA1L3RodW1icy9vcmlnaW5hbF85N0ZGMTA4Ny03MDNBLTY4NEItQTM2Mi1DNDE5NEY3QTE0MjN0b2Nvcm5hbF81LmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/N4BwTFGJUKcYrONzlO65p2gQqenLOgc_MEhY4yPxFPQ/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zMjA1L3RodW1icy9vcmlnaW5hbF8zM0QzNDY3My0yRDVBLThEOUQtQURDOS1DMkY2MjgxRTkwMzB0b2Nvcm5hbF8xNS5qcGc.jpg"
+      ],
+      "servicios_especiales": {
+        "tiene_descuento": true,
+        "garantia_cuotas": true,
+        "sin_aval": true,
+        "servicio_pro": true
+      }
+    },
+    {
+      "id": 1158,
+      "informacion_basica": {
+        "titulo": "Conquista Velasquez IV",
+        "direccion_completa": "Coronel Godoy 149 , Estación Central",
+        "comuna": "Estación Central",
+        "link_propiedad": "https://www.assetplan.cl/arriendo/departamento/estacion-central/edificio/conquista-velasquez-iv/1158"
+      },
+      "precio": {
+        "precio_desde": "285000",
+        "precio_hasta": "420000",
+        "moneda": "CLP",
+        "precio_desde_uf": 7308,
+        "precio_hasta_uf": 10769
+      },
+      "servicios_disponibles": [
+        "Arriendo con descuento",
+        "Garantía en cuotas",
+        "Opción sin garantía"
+      ],
+      "caracteristicas": [
+        "2 Dormitorios | +10 Disponibles",
+        "1 Dormitorio | +10 Disponibles",
+        "Estudio | 1 Disponible"
+      ],
+      "imagenes": [
+        "https://d23gr057zjkjxx.cloudfront.net/4z_qgkl-BBw5NrJ2YF3mIMvv7Nnl8gaVpubUkYtClgg/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8xMTU4L3RodW1icy9vcmlnaW5hbF8xOTVFQzAwNS01NDZELUQ1MjEtMTc5My0zQ0Q5MzgxMzFCMTlhcF9jZzE1NV8xNzE0XzE0LjA0LjIwMjFfMDIwLmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/vjAD0SkYYapfrQgYLXCkqhdqLTJhdnrmIT33azDFQwo/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8xMTU4L3RodW1icy9vcmlnaW5hbF8yM0IyN0ZENS1GMzU2LTk5Q0EtREFEMS04QjNDMkZBRDhDQzctbWcyMDI1MDYxNzEzMzMzNS5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/ivNJvZC3dGnK50bybJX04xAwoXMGHPPgWkhBkzp9RPE/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8xMTU4L3RodW1icy9vcmlnaW5hbF9DNjE2RTk3MC1FMjdGLTcwNEUtQjdGOC1GOUNFRDNDN0Q4MjVhcF9jZzE1NV8xNzE0XzE0LjA0LjIwMjFfMDExLmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/XMEyVEC2i_H4UeiaJrtoEh_TeKpatn4nxs29R1tOEX0/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8xMTU4L3RodW1icy9vcmlnaW5hbF84QUZFOEFBMC1CMUY4LTQ1QjAtNEY0MS1COENBMDJCOEU5QkVhcF9jZzE1NV8xNzE0XzE0LjA0LjIwMjFfMDEyLmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/j2PzhhD48jwDXc7k0_gtSiTayZQLe5VsnY-bRZ3W8Yw/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8xMTU4L3RodW1icy9vcmlnaW5hbF9DRjg4QzRFQi1CM0RFLUJDQzctMEZEOS00NzU0QjZBRjI5RTNhcF9jZzE1NV8xNzE0XzE0LjA0LjIwMjFfMDEzLmpwZw.jpg"
+      ],
+      "servicios_especiales": {
+        "tiene_descuento": true,
+        "garantia_cuotas": true,
+        "sin_aval": false,
+        "servicio_pro": false
+      }
+    },
+    {
+      "id": 2638,
+      "informacion_basica": {
+        "titulo": "Mosaic Art",
+        "direccion_completa": "Arturo Prat 595 , Santiago",
+        "comuna": "Santiago",
+        "link_propiedad": "https://www.assetplan.cl/arriendo/departamento/santiago/edificio/mosaic-art/2638"
+      },
+      "precio": {
+        "precio_desde": "300000",
+        "precio_hasta": "570000",
+        "moneda": "CLP",
+        "precio_desde_uf": 7692,
+        "precio_hasta_uf": 14615
+      },
+      "servicios_disponibles": [
+        "Arriendo con descuento",
+        "Garantía en cuotas"
+      ],
+      "caracteristicas": [
+        "1 Dormitorio | +10 Disponibles",
+        "2 Dormitorios | 1 Disponible",
+        "Estudio | 1 Disponible"
+      ],
+      "imagenes": [
+        "https://d23gr057zjkjxx.cloudfront.net/uoNWbB2TrgwWrt1CR8PbBcXp-KnNuiOTwGsFHFs67JA/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yNjM4L3RodW1icy9vcmlnaW5hbF83QTA0NzlBOS05RkE2LUUzRTAtQTJDNS0wQzMyRkFDMUE2ODUtbWcyMDI0MDIwNjE0MTA0NS5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/NQMGzfCgv9AvBTaVSwZJTjRCCnH7EG7YxUjq_YjO-3A/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yNjM4L3RodW1icy9vcmlnaW5hbF83RUU5NkMwQS0xQzc1LUI1OTQtQzJCRS0xN0RCMzZFMDJFMTEtbWcyMDI0MTIwMzE0MjYzOS5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/npI6SnhHFcIVWp2fV180lXjyidgjRJEciTI1_03Vz0A/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yNjM4L3RodW1icy9vcmlnaW5hbF9GMUQzRDdENy1CODk4LTQ2OTUtMTUwOS1BMjFFMDg4MjkyNjQtZzIwMjQxMjAzMTQzNDI1MS5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/uWnY0cwARIC1HSmj9AvxnaJ_3XUZE5WicTDNJ3LKXZM/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yNjM4L3RodW1icy9vcmlnaW5hbF82NzI4NjQ3OS1EMDI0LUIwOTgtOTVCQS05QjU3MkNFNThFMEEtZzIwMjQxMjAzMTQzMzUxMi5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/9MBmsnorgjKgpdYAhfJX6kyISW7pK5NIqWpQzdsNmn4/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yNjM4L3RodW1icy9vcmlnaW5hbF8xODg0NUU4QS00RkNGLTExNTUtM0IwMS0zMDlCNDUxQjZCMDgtbWcyMDI0MDIwNjE0MDUxNS5qcGc.jpg"
+      ],
+      "servicios_especiales": {
+        "tiene_descuento": true,
+        "garantia_cuotas": true,
+        "sin_aval": false,
+        "servicio_pro": false
+      }
+    },
+    {
+      "id": 2744,
+      "informacion_basica": {
+        "titulo": "Zorzal",
+        "direccion_completa": "Av. María Rozas Velásquez 41 , Estación Central",
+        "comuna": "Estación Central",
+        "link_propiedad": "https://www.assetplan.cl/arriendo/departamento/estacion-central/edificio/zorzal/2744"
+      },
+      "precio": {
+        "precio_desde": "260000",
+        "precio_hasta": "470000",
+        "moneda": "CLP",
+        "precio_desde_uf": 6667,
+        "precio_hasta_uf": 12051
+      },
+      "servicios_disponibles": [
+        "Arriendo con descuento",
+        "Garantía en cuotas",
+        "Opción sin garantía"
+      ],
+      "caracteristicas": [
+        "2 Dormitorios | +10 Disponibles",
+        "Estudio | 5 Disponibles",
+        "1 Dormitorio | Notificar disponibilidad"
+      ],
+      "imagenes": [
+        "https://d23gr057zjkjxx.cloudfront.net/cdNvscIY8OfPRNFfp0BJ2uLKH95_PEhAq6EOiKjbQGE/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yNzQ0L3RodW1icy9vcmlnaW5hbF81QzJGMTU0RC01MkRCLTdBQjItRThEQy02NjJFODY0NzM1QTEtbWcyMDI0MDQxNjEyMzAzMi5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/99o0Y4R0QMVI0gmdBDnc2D5NSkgs5LhVKOSg_VNAEZo/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yNzQ0L3RodW1icy9vcmlnaW5hbF85OTQwQTk5QS1DRjMyLUI5QUEtNjAyQy05MEU3REUyOTNFQkEtbWcyMDI0MDQxNjEyMzA1OC5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/83mDd2MO1QZ2D3o0CRTCafCguoU9OX2FHhql8oLf4a8/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yNzQ0L3RodW1icy9vcmlnaW5hbF8wNEJFMzhDOC1EMkM5LTNGQTItMjYyRi1BQUMyMEQyNDAzQUUtbWcyMDI0MDQxNjEyMjkzMS5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/3B4DjiltSJOESv_H4HCwee45MPA1soiGlO30QW13OHU/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yNzQ0L3RodW1icy9vcmlnaW5hbF8yRkJGQkY4MS03QzVBLTlDRjUtQjlBMy1BRDI1OTNGMDkwODItbWcyMDI0MDQxNjEyMjk0NC5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/fUITOwdwZE8IepJbaA1JclCryhaE6eXyojvHFPLZsG4/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yNzQ0L3RodW1icy9vcmlnaW5hbF9DREMzNTFBQy1FMTg1LTg4RDktODFFQi1FQjRGNDY1MDJCNkUtbWcyMDI0MDQxNjEyMjg1MC5qcGc.jpg"
+      ],
+      "servicios_especiales": {
+        "tiene_descuento": true,
+        "garantia_cuotas": true,
+        "sin_aval": false,
+        "servicio_pro": false
+      }
+    },
+    {
+      "id": 237,
+      "informacion_basica": {
+        "titulo": "Conquista Velázquez I",
+        "direccion_completa": "Nicasio Retamales 115 , Estación Central",
+        "comuna": "Estación Central",
+        "link_propiedad": "https://www.assetplan.cl/arriendo/departamento/estacion-central/edificio/conquista-velazquez-i/237"
+      },
+      "precio": {
+        "precio_desde": "220000",
+        "precio_hasta": "365000",
+        "moneda": "CLP",
+        "precio_desde_uf": 5641,
+        "precio_hasta_uf": 9359
+      },
+      "servicios_disponibles": [
+        "Arriendo con descuento",
+        "Garantía en cuotas",
+        "Opción sin garantía",
+        "Opción sin aval"
+      ],
+      "caracteristicas": [
+        "2 Dormitorios | 4 Disponibles",
+        "1 Dormitorio | 3 Disponibles",
+        "Estudio | 2 Disponibles"
+      ],
+      "imagenes": [
+        "https://d23gr057zjkjxx.cloudfront.net/ynZ-yhIP8WMY87kjZaJoRYUN-rUDgT2EutICedktIMA/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yMzcvdGh1bWJzL29yaWdpbmFsXzgzRDAyRUU5LUI1ODgtRDRBMy04RDI3LTI0MEZFMzIxMUQ2N2FwX25yMTE1XzE2MDgtc18yNC4wNS4yMDIyXzAyMi5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/bQQKfF3cTIY6A4GcaMjzsEo6u5ZX9OHsqiiOKQoDTYc/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yMzcvdGh1bWJzL29yaWdpbmFsX0YwNTQ5OTc0LTE1QUUtMTkwRi0yRTM4LTQ4MzVCREI0OUJFMy1tZzIwMjUwNjE3MTQyMjQzLmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/QTQllGtONdg3GeUylpmGAKvzwVRd9XUZ-UpmPs4rEiQ/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yMzcvdGh1bWJzL29yaWdpbmFsXzEwRDkyRDA0LTVGQkUtNDQ0Qi0zQ0JCLTA0RjM3NTE3MzQyQmFwX25yMTE1XzcxMC1zXzE0LjA5LjIwMjJfMDA2LmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/O82OzW0OBYKKwp7osifQUquJQuZHd4pv8e1cMqxxfcY/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yMzcvdGh1bWJzL29yaWdpbmFsXzg4REM0NzJGLUNEQzMtOUU5QS0zQjAyLUU5NEQ1NzA1M0I4NmFwX25yMTE1XzcxMC1zXzE0LjA5LjIwMjJfMDAzLmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/LmNPQzVo-RuVLr3CtlypilyDAh2o2GhgLysit_qAuxM/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yMzcvdGh1bWJzL29yaWdpbmFsXzg2RjMwNDhFLUI3RjQtREQyQS01NDFDLThGM0VDNjAwOEM5M2FwX25yMTE1XzcxMC1zXzE0LjA5LjIwMjJfMDA0LmpwZw.jpg"
+      ],
+      "servicios_especiales": {
+        "tiene_descuento": true,
+        "garantia_cuotas": true,
+        "sin_aval": true,
+        "servicio_pro": false
+      }
+    },
+    {
+      "id": 1481,
+      "informacion_basica": {
+        "titulo": "Carrión",
+        "direccion_completa": "Carrión 1507 , Independencia",
+        "comuna": "Independencia",
+        "link_propiedad": "https://www.assetplan.cl/arriendo/departamento/independencia/edificio/carrion/1481"
+      },
+      "precio": {
+        "precio_desde": "305000",
+        "precio_hasta": "375000",
+        "moneda": "CLP",
+        "precio_desde_uf": 7821,
+        "precio_hasta_uf": 9615
+      },
+      "servicios_disponibles": [
+        "Arriendo con descuento",
+        "Garantía en cuotas",
+        "Opción sin garantía"
+      ],
+      "caracteristicas": [
+        "1 Dormitorio | 5 Disponibles",
+        "2 Dormitorios | 3 Disponibles"
+      ],
+      "imagenes": [
+        "https://d23gr057zjkjxx.cloudfront.net/ffmDXCh9JmI6kxnYyEwdrGYQA4Tcje8tvXa7QeiGeKc/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8xNDgxL3RodW1icy9vcmlnaW5hbF9BQjQ5MEIzNC1CQjQxLUQ5N0EtQjgxRS05QTA0OTgyODRFQ0Ytc2VsZWNjaW9uNy5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/_7SKR_4dJKoimcM4d_vcapAq2sWYTcZ0rmnHUqv2iIk/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8xNDgxL3RodW1icy9vcmlnaW5hbF80QUY2OTk3My00RkI2LTJBMUMtNEU5RS1BQzQxMUVCMTQzQUYtc2VsZWNjaW9uOC5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/ogndc4w4VYR6vFDrvFJJ6s5Ycdakau8l4tRJ5JuR604/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8xNDgxL3RodW1icy9vcmlnaW5hbF9DNkRBNDM0Mi1CMkJDLTQ1NzMtNjVFNC1FOEFFRUFBNThFQkYtc2VsZWNjaW9uNi5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/M57oVmG3BOPhW0UyuP3KAqV5_8uDr38DxqdploE-gFE/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8xNDgxL3RodW1icy9vcmlnaW5hbF9FMjZDMUIzQi1DQTFELTFCQTEtMTU4RC1BQjNBNzYwREQxMjItc2VsZWNjaW9uNC5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/0YEw7iwH-HC3hLWYvapvH-DHR8H5zUK9CMrt0P_0O0A/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8xNDgxL3RodW1icy9vcmlnaW5hbF9FNjA4RUIxMi0wNzU2LUJBQTMtOTVBQS05QTA4NkQ0RDFCQTMtc2VsZWNjaW9uMi5qcGc.jpg"
+      ],
+      "servicios_especiales": {
+        "tiene_descuento": true,
+        "garantia_cuotas": true,
+        "sin_aval": false,
+        "servicio_pro": false
+      }
+    },
+    {
+      "id": 2965,
+      "informacion_basica": {
+        "titulo": "Arquitecto Toesca",
+        "direccion_completa": "Toesca 2576 , Santiago",
+        "comuna": "Santiago",
+        "link_propiedad": "https://www.assetplan.cl/arriendo/departamento/santiago/edificio/arquitecto-toesca/2965"
+      },
+      "precio": {
+        "precio_desde": "295000",
+        "precio_hasta": "510000",
+        "moneda": "CLP",
+        "precio_desde_uf": 7564,
+        "precio_hasta_uf": 13077
+      },
+      "servicios_disponibles": [
+        "Arriendo con descuento",
+        "Garantía en cuotas"
+      ],
+      "caracteristicas": [
+        "2 Dormitorios | 4 Disponibles",
+        "Estudio | 4 Disponibles",
+        "1 Dormitorio | Notificar disponibilidad"
+      ],
+      "imagenes": [
+        "https://d23gr057zjkjxx.cloudfront.net/zCS9ZvmTagfAb4DzaeZrjeiNH1FOrsVG5JPjz0zwifM/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yOTY1L3RodW1icy9vcmlnaW5hbF9FMDFDQUE4QS1CNDUyLTg0MjItNDAwMy0wNDEwQzZBRkM3QkQtbWcyMDI0MDgyOTE3MTQ0OC5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/Erwa_Wea2OE6SdDwADcJw9HfFy7BKFBIWVxBn1FKXiQ/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yOTY1L3RodW1icy9vcmlnaW5hbF8wQ0Y3NDM1Qi0zMjIwLTQwNUYtN0UzMS04NEM5NTExQTg1MkQtbWcyMDI0MDgyOTE3MTQwMS5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/-2qDPMxgnWQ_f35TnHwC-JdB80iNJd-TyA_eqULA3Ek/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yOTY1L3RodW1icy9vcmlnaW5hbF8wQTJCNTYzOS0zOTc1LTVDRDYtQUM3OS1FNzMwNERBOTZBRTgtbWcyMDI0MDgyOTE3MDEzNC5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/LV5qaxatDGeYmCTk6aYpem0qWzE6Nz2ALK5Eg_IE_Z0/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yOTY1L3RodW1icy9vcmlnaW5hbF81NTREMTQ3Qy1BMzMwLUE4NTMtNzBBOC05NTQ5OTRERUUwMTYtbWcyMDI0MDgyOTE3MDE0OC5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/UseYOboLmXzURQj6gGJdA3fv57ef0-5_fnZn5hk7rNM/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yOTY1L3RodW1icy9vcmlnaW5hbF9EMDU3OEE1Mi1DMDc2LTAzNDUtNTU5MS03NDVCMDA5ODk4MkQtbWcyMDI0MDgyOTE2NTkxNi5qcGc.jpg"
+      ],
+      "servicios_especiales": {
+        "tiene_descuento": true,
+        "garantia_cuotas": true,
+        "sin_aval": false,
+        "servicio_pro": false
+      }
+    },
+    {
+      "id": 2664,
+      "informacion_basica": {
+        "titulo": "Parque del Sur",
+        "direccion_completa": "Gral. González Balcarce 2020 , Santiago",
+        "comuna": "Santiago",
+        "link_propiedad": "https://www.assetplan.cl/arriendo/departamento/santiago/edificio/parque-del-sur/2664"
+      },
+      "precio": {
+        "precio_desde": "260000",
+        "precio_hasta": "340000",
+        "moneda": "CLP",
+        "precio_desde_uf": 6667,
+        "precio_hasta_uf": 8718
+      },
+      "servicios_disponibles": [
+        "Arriendo con descuento",
+        "Garantía en cuotas"
+      ],
+      "caracteristicas": [
+        "Estudio | 7 Disponibles",
+        "1 Dormitorio | Notificar disponibilidad"
+      ],
+      "imagenes": [
+        "https://d23gr057zjkjxx.cloudfront.net/VkhGcZn0MS8UclZ8WzfJmDFeWA9DLLldaYPFKQFv5oM/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yNjY0L3RodW1icy9vcmlnaW5hbF9FMEI2NkQzMC05Qzc5LThBQjMtQTIzRi0wOTA2QkUyOEVDNjgtbWcyMDI0MDMyODEzMDMwNC5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/-ZjM3hcDl_UH-ts-9kfXxIQ1CH31serm2RuOIM_9pis/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yNjY0L3RodW1icy9vcmlnaW5hbF85NEI2MjZGQS04NERFLTlEOTItRUI3Ri1FODE2OEIxNDc5Q0UtbWcyMDI0MDQyNTEwMjEyMy5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/ciI_3qa4unDL_Y0z9f6GfG5j18pzY04HD7S_EEf7180/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yNjY0L3RodW1icy9vcmlnaW5hbF83OEE4MDIyMC1CNzNCLTE1QTQtMUU3MC1BRjA1NUNCNTVEOEYtbWcyMDI0MDQyNTA5NDM0Ni5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/viuABRqKs4eZH11sYBTIFzJ_VPsa1AWpIS7baU1Krvk/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yNjY0L3RodW1icy9vcmlnaW5hbF9CNzFFOUFDQS03RDg2LTFEQzYtMTA0QS02Qzg5QzM3N0QyQTMtbWcyMDI0MDQyNTEwMTg0NC5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/lD5c8nfiD3yeTz-EnKv56grdwik0HJm4jGPbDxJeG8Q/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yNjY0L3RodW1icy9vcmlnaW5hbF8wQTc1MkQ1NC04OTRELUM5Q0YtODFBNS0zNzFGMUQzQUY3QTgtbWcyMDI0MDMyODEzMDE1NS5qcGc.jpg"
+      ],
+      "servicios_especiales": {
+        "tiene_descuento": true,
+        "garantia_cuotas": true,
+        "sin_aval": false,
+        "servicio_pro": false
+      }
+    },
+    {
+      "id": 367,
+      "informacion_basica": {
+        "titulo": "Conquista Velázquez II",
+        "direccion_completa": "Nicasio Retamales 048 058 , Estación Central",
+        "comuna": "Estación Central",
+        "link_propiedad": "https://www.assetplan.cl/arriendo/departamento/estacion-central/edificio/conquista-velazquez-ii/367"
+      },
+      "precio": {
+        "precio_desde": "240000",
+        "precio_hasta": "360000",
+        "moneda": "CLP",
+        "precio_desde_uf": 6154,
+        "precio_hasta_uf": 9231
+      },
+      "servicios_disponibles": [
+        "Arriendo con descuento",
+        "Garantía en cuotas"
+      ],
+      "caracteristicas": [
+        "1 Dormitorio | 3 Disponibles",
+        "2 Dormitorios | 3 Disponibles",
+        "Estudio | Notificar disponibilidad"
+      ],
+      "imagenes": [
+        "https://d23gr057zjkjxx.cloudfront.net/-iQ5_Z6KaAVDKlANRFWmkP44Q-j_c13KUxAb3AR5hLA/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zNjcvdGh1bWJzL29yaWdpbmFsX0RGNTZDMEZBLTQ1RDEtOTc3Ri03REM0LTkwNkZGNzFBNTNEQWNvbnF1aXN0YV9paV8yLmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/fs_frWJ6cceAH3ukLBUL_JmmYKm9vprqBZqw4M_ifyM/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zNjcvdGh1bWJzL29yaWdpbmFsXzQ5QUI3MzJCLTVCMDAtQ0M1MC03RDE2LTA0QjY0Q0U2NzFGOGNvbnF1aXN0YV9paV8xLmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/eG-Jpes87daW1VKYQB4ZDgFf1iYK24OKv9XvlrxBeaw/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zNjcvdGh1bWJzL29yaWdpbmFsX0IzNTE1MzQ5LTI1N0MtMEEyQS01Q0ZBLTk4NTBBRjg5NjE2QWVkaWZpY2lvLmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/F5f8kdoxzrNpykCM0wj2iHTvWWh9RLJRW0wDAEwfj_4/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zNjcvdGh1bWJzL29yaWdpbmFsXzhDQTQxMEYwLUIyNjQtNDZCNy0yMUJFLUE2RTQyM0VEOEI4Q2FjY2Vzby5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/yWfeMzpnmZrCQMpN-Z8AaNFuqwLKvJjSLQwyg2DWXbg/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8zNjcvdGh1bWJzL29yaWdpbmFsX0FGMjRBODJDLTQ1OEQtQTVBNi1GMjc3LTI5M0I5QkU4Q0E0NmFwX25yMDQ4XzEwMDZvXzA3LjA5LjIwMjFfMDE1LmpwZw.jpg"
+      ],
+      "servicios_especiales": {
+        "tiene_descuento": true,
+        "garantia_cuotas": true,
+        "sin_aval": false,
+        "servicio_pro": false
+      }
+    },
+    {
+      "id": 435,
+      "informacion_basica": {
+        "titulo": "Doña Petronila",
+        "direccion_completa": "Sta. Petronila 32 , Estación Central",
+        "comuna": "Estación Central",
+        "link_propiedad": "https://www.assetplan.cl/arriendo/departamento/estacion-central/edificio/dona-petronila/435"
+      },
+      "precio": {
+        "precio_desde": "200000",
+        "precio_hasta": "230000",
+        "moneda": "CLP",
+        "precio_desde_uf": 5128,
+        "precio_hasta_uf": 5897
+      },
+      "servicios_disponibles": [
+        "Arriendo con descuento",
+        "Garantía en cuotas",
+        "Opción sin garantía"
+      ],
+      "caracteristicas": [
+        "Estudio | 4 Disponibles",
+        "1 Dormitorio | 2 Disponibles"
+      ],
+      "imagenes": [
+        "https://d23gr057zjkjxx.cloudfront.net/-o9L0KzdeCflYytfRBj8aUo9Wy-LBoRgNVH8vSHtGuA/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy80MzUvdGh1bWJzL29yaWdpbmFsXzBDRTc4OTc5LThBQjMtOUFENS1CQzNFLTI2QzcxOTdFRkExMS04MDMzMC4wMy4yMDIxMDEyLmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/hteI2DqrZePofQP2tezGR_eVLVXDC0U7j98ztcWfkdo/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy80MzUvdGh1bWJzL29yaWdpbmFsXzJGQkFEQkFELTE0MkEtOERENy01MTVDLUU1MEI2ODgxRDVBMy04MDMzMC4wMy4yMDIxMDA4LmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/8GFYjT7AufNQSU9M7FkBcYehZWOgmUY1IXH6gNH5Qow/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy80MzUvdGh1bWJzL29yaWdpbmFsXzU0QUI0RUJELUY1MkItRTI2Qi0wRUQyLTMyQkQ1OENBMUU5RS04MDMzMC4wMy4yMDIxMDEwLmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/7bdxuQUENlEMPn5TRa1vzWZSVDNqGH2AReYskjtoQ0I/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy80MzUvdGh1bWJzL29yaWdpbmFsX0MwRTdBQUYwLTdGMzgtNEE3MC1ENkQzLTMxRjUyRTA5Qzc3NC04MDMzMC4wMy4yMDIxMDA5LmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/1LjOzzQknuwnoJTHjz5inotYvzshBaVSfgRVSN_Uf5k/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy80MzUvdGh1bWJzL29yaWdpbmFsX0ZDNzExOTI3LTkxQzItQUU0QS01QzU0LTMwOTQ4RTFCMjRFRi04MDMzMC4wMy4yMDIxMDExLmpwZw.jpg"
+      ],
+      "servicios_especiales": {
+        "tiene_descuento": true,
+        "garantia_cuotas": true,
+        "sin_aval": false,
+        "servicio_pro": false
+      }
+    },
+    {
+      "id": 1233,
+      "informacion_basica": {
+        "titulo": "Eco Santiago",
+        "direccion_completa": "Apóstol Santiago 32 , Estación Central",
+        "comuna": "Estación Central",
+        "link_propiedad": "https://www.assetplan.cl/arriendo/departamento/estacion-central/edificio/eco-santiago/1233"
+      },
+      "precio": {
+        "precio_desde": "245000",
+        "precio_hasta": "360000",
+        "moneda": "CLP",
+        "precio_desde_uf": 6282,
+        "precio_hasta_uf": 9231
+      },
+      "servicios_disponibles": [
+        "Arriendo con descuento",
+        "Garantía en cuotas",
+        "Opción sin garantía",
+        "Opción sin aval"
+      ],
+      "caracteristicas": [
+        "1 Dormitorio | 5 Disponibles",
+        "2 Dormitorios | 1 Disponible"
+      ],
+      "imagenes": [
+        "https://d23gr057zjkjxx.cloudfront.net/aSy2koFa6doQ0wcs7UfN4J3fx1mgNXW4K-6xgcwwCXg/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8xMjMzL3RodW1icy9vcmlnaW5hbF84ODY1MTY5Ni05RjU1LTJGQzUtMTgwNi1DMDYyMERDNkY1MDctOTAzMjkuMDcuMjAyMTAxMy5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/wA6VQw_m-r6gvpCf7I6cCr6lLBdK50_DTGUEoVmrEKg/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8xMjMzL3RodW1icy9vcmlnaW5hbF80QUJFMzAyOS04QTZGLTU4N0UtRjQ3My0yNDJCMjY4NjhEM0YtZHNjMDE2MS5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/PCI4voucr_C_gzftKqitTNzNUSm15GSSZJ3jV32KlBg/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8xMjMzL3RodW1icy9vcmlnaW5hbF81QTlEOTUzMS04ODA3LUFEOTctNzlFOS00OUIwREFCMzI3QTEtZHNjMDE1NC5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/R0Zk1TubdZJtkBYnRHpCf4kIDntjXQNIEo_aMcEtaaY/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8xMjMzL3RodW1icy9vcmlnaW5hbF8xNzQ3QTVEMC1COUVDLTA1NDMtMDg3MS0yQzM1REVEQzM2NTUtMjMxNTE2LmpwZWc.jpeg",
+        "https://d23gr057zjkjxx.cloudfront.net/jvsXBGbchQlq-H9nsaYrSmLxn8BVtu3yN42u1i0Du_w/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8xMjMzL3RodW1icy9vcmlnaW5hbF8xRDc2MUUwMi1DRDIyLTExRDUtMTNEMi1DRUVENEJDNkJEMzYtMjMxNTE1LmpwZWc.jpeg"
+      ],
+      "servicios_especiales": {
+        "tiene_descuento": true,
+        "garantia_cuotas": true,
+        "sin_aval": true,
+        "servicio_pro": false
+      }
+    },
+    {
+      "id": 55,
+      "informacion_basica": {
+        "titulo": "Carmen Oriente",
+        "direccion_completa": "Carmen 110 , Santiago",
+        "comuna": "Santiago",
+        "link_propiedad": "https://www.assetplan.cl/arriendo/departamento/santiago/edificio/carmen-oriente/55"
+      },
+      "precio": {
+        "precio_desde": "295000",
+        "precio_hasta": "300000",
+        "moneda": "CLP",
+        "precio_desde_uf": 7564,
+        "precio_hasta_uf": 7692
+      },
+      "servicios_disponibles": [
+        "Garantía en cuotas"
+      ],
+      "caracteristicas": [
+        "1 Dormitorio | 5 Disponibles"
+      ],
+      "imagenes": [
+        "https://d23gr057zjkjxx.cloudfront.net/vNPOdehhyAzdrKU00wVxBVVbO2uc0gqwpvP5AzA77zk/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy81NS90aHVtYnMvb3JpZ2luYWxfOERFREJDRkMtMTFEOC0wNEVBLTAzQTktOUFCRTY3NEYxMjQ4YXBfYzExMF83MTlfMTMuMDkuMjAyMl8wMTUuanBn.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/aJ5Yseo-DDLx3EXDxZAQE0JyhhEb_sraX3MCgGWQahE/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy81NS90aHVtYnMvb3JpZ2luYWxfNTcyMDY2N0ItQzhDOC03QzU0LTU2QTItNUVDOTY3QjIyNERCYXBfYzExMF83MTlfMTMuMDkuMjAyMl8wMTMuanBn.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/T8FYtEC--qCCma0ZT9qkGG458ukbqTftOvzLahvmgME/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy81NS90aHVtYnMvb3JpZ2luYWxfNDM2REYyODQtQTgzOS0wQzlBLTQzNzQtNTRDOEQ5NjNDMDM2YXBfYzExMF83MTlfMTMuMDkuMjAyMl8wMTIuanBn.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/PqqFIo9WhIXfAOADlsSrieewWxRCzHINhyxOpWo6k9U/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy81NS90aHVtYnMvb3JpZ2luYWxfRUQzOERGNzEtNzdCMC1FMzRELTU2NUUtMzFFOTFDRDU4NUZDYXBfYzExMF83MTlfMTMuMDkuMjAyMl8wMTQuanBn.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/p74uV20m6Q6qqeWQ11soXAIA7QSphZ7Wa_uGPCNZK7M/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy81NS90aHVtYnMvb3JpZ2luYWxfMEM2ODM1NjMtQ0JGNi04NkIxLTc0OEEtMjc1ODc5OUE0NDI2c2Fsb25fbG91bmdlXzIuanBn.jpg"
+      ],
+      "servicios_especiales": {
+        "tiene_descuento": false,
+        "garantia_cuotas": true,
+        "sin_aval": false,
+        "servicio_pro": false
+      }
+    },
+    {
+      "id": 509,
+      "informacion_basica": {
+        "titulo": "Embajador Quintana",
+        "direccion_completa": "Embajador Quintana 4334 , Estación Central",
+        "comuna": "Estación Central",
+        "link_propiedad": "https://www.assetplan.cl/arriendo/departamento/estacion-central/edificio/embajador-quintana/509"
+      },
+      "precio": {
+        "precio_desde": "200000",
+        "precio_hasta": "395000",
+        "moneda": "CLP",
+        "precio_desde_uf": 5128,
+        "precio_hasta_uf": 10128
+      },
+      "servicios_disponibles": [
+        "Arriendo con descuento",
+        "Garantía en cuotas",
+        "Opción sin garantía"
+      ],
+      "caracteristicas": [
+        "2 Dormitorios | 2 Disponibles",
+        "Estudio | 2 Disponibles",
+        "1 Dormitorio | 1 Disponible"
+      ],
+      "imagenes": [
+        "https://d23gr057zjkjxx.cloudfront.net/861Hf5s3wZdF6NlPEo1jghKTrLXgTc65x1XNNuhk36s/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy81MDkvdGh1bWJzL29yaWdpbmFsX0RGMTU2RkRGLUFEOTAtNkU2OC0zNjQ2LTg2NkUxNDJFOTJDOGFwX2VxNDMzNF8xNzE1XzIwLjA3LjIwMjFfMDA5LmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/VyWUJzPADgr1AxOTCD0QzR85gHGwQwhkqYdUhlF11rs/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy81MDkvdGh1bWJzL29yaWdpbmFsXzUzNEE3MTBFLUQ3M0EtODUyNC1FNkM0LTcwRUE3QzJCMEU0QmFwX2VxNDMzNF8xNzE1XzIwLjA3LjIwMjFfMDA4LmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/Fpsq2-1lU7niPzTQ-FCmiv17W_-cmxpBwzG6clKkIoU/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy81MDkvdGh1bWJzL29yaWdpbmFsXzk3QzQ1REI3LTg2NjYtNTM2Ny1CNEI0LTYzRjlFOURBQkM1QmFwX2VxNDMzNF8xNzE1XzIwLjA3LjIwMjFfMDA2LmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/5NQK8OUzWsjT1McirK6zakfHMfQB8wavjeueiEd8RmM/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy81MDkvdGh1bWJzL29yaWdpbmFsXzg3QTIwMzkzLTFFMTQtQUQ3MS1FRDhGLTcxMDM5RDJENjIyMmFwX2VxNDMzNF8xNzE1XzIwLjA3LjIwMjFfMDA3LmpwZw.jpg"
+      ],
+      "servicios_especiales": {
+        "tiene_descuento": true,
+        "garantia_cuotas": true,
+        "sin_aval": false,
+        "servicio_pro": false
+      }
+    },
+    {
+      "id": 1102,
+      "informacion_basica": {
+        "titulo": "Constanza",
+        "direccion_completa": "Gaspar de Orense 897 , Quinta Normal",
+        "comuna": "Quinta Normal",
+        "link_propiedad": "https://www.assetplan.cl/arriendo/departamento/quinta-normal/edificio/constanza/1102"
+      },
+      "precio": {
+        "precio_desde": "260000",
+        "precio_hasta": "350000",
+        "moneda": "CLP",
+        "precio_desde_uf": 6667,
+        "precio_hasta_uf": 8974
+      },
+      "servicios_disponibles": [
+        "Garantía en cuotas",
+        "Opción sin garantía"
+      ],
+      "caracteristicas": [
+        "3 Dormitorios | 3 Disponibles",
+        "1 Dormitorio | 1 Disponible",
+        "2 Dormitorios | 1 Disponible"
+      ],
+      "imagenes": [
+        "https://d23gr057zjkjxx.cloudfront.net/OxHBJ8fWq4xu-JqRU4pTloS-3UN1sjhRb6HpysyN-Io/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8xMTAyL3RodW1icy9vcmlnaW5hbF8wQUQ2RjBBMi1BOTZCLTc3MzEtQjJFMS1EQTJBM0NFOEI2RTJmYWNoYWRhXzMuanBlZw.jpeg",
+        "https://d23gr057zjkjxx.cloudfront.net/FiBCNaWPZITiUGVxDx7Zyn7dWz8Rp9ua4IbY3tSQ4Q4/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8xMTAyL3RodW1icy9vcmlnaW5hbF9GQjlDOUE1My1BNjEzLUFBNzEtOTA4NS0wNjg2MEM0RkJFNEEtbGEyMDI0MDIxMzE2NDA1MS5wbmc.png",
+        "https://d23gr057zjkjxx.cloudfront.net/BzFnSsubRP-Lo5lYwPldGhq_HgG2sVgougI7EQJgQig/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8xMTAyL3RodW1icy9vcmlnaW5hbF81RTc0QTYwNC02QzYzLTkwRUYtNzI5Ri00NEIzMzJEQUIzMEZmYWNoYWRhXzUuanBlZw.jpeg",
+        "https://d23gr057zjkjxx.cloudfront.net/e0n7PAvyo0gcELw7ZcVYusllOa_Aw2WniWSdIkjGgtM/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8xMTAyL3RodW1icy9vcmlnaW5hbF81MEYyNUVDOS1ENzAzLUI1N0YtREU0Qi00RjhFODRBRDE4MjNmYWNoYWRhXzIuanBlZw.jpeg",
+        "https://d23gr057zjkjxx.cloudfront.net/t2JzQmDSFmk7XahJ0yh36jNlueQf41efUm34IVESfwE/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8xMTAyL3RodW1icy9vcmlnaW5hbF8zNEVBNEFCNS03ODg4LUY2RkYtNDU1OS05NTBBMEQ3MDdGNjZsb2JieV8zLmpwZWc.jpeg"
+      ],
+      "servicios_especiales": {
+        "tiene_descuento": false,
+        "garantia_cuotas": true,
+        "sin_aval": false,
+        "servicio_pro": false
+      }
+    },
+    {
+      "id": 1109,
+      "informacion_basica": {
+        "titulo": "Magdalena",
+        "direccion_completa": "Vergara 583 , Santiago",
+        "comuna": "Santiago",
+        "link_propiedad": "https://www.assetplan.cl/arriendo/departamento/santiago/edificio/magdalena/1109"
+      },
+      "precio": {
+        "precio_desde": "255000",
+        "precio_hasta": "340000",
+        "moneda": "CLP",
+        "precio_desde_uf": 6538,
+        "precio_hasta_uf": 8718
+      },
+      "servicios_disponibles": [
+        "Garantía en cuotas"
+      ],
+      "caracteristicas": [
+        "1 Dormitorio | 4 Disponibles",
+        "2 Dormitorios | 1 Disponible"
+      ],
+      "imagenes": [
+        "https://d23gr057zjkjxx.cloudfront.net/7VqER7DFtxtmHsLuCLUyP4DLDY5a5T790QVBkp-M0p0/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8xMTA5L3RodW1icy9vcmlnaW5hbF80ODA1QkZGNy1DRkY5LTRCNjEtQjBENS1CQ0ZBRjIxOTYzRDAtMjA3MTUuMDcuMjAyNDAxNC5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/-S-TneesLjZt56l59vaEArFaKml_QeTLlwJLJ8GLZlM/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8xMTA5L3RodW1icy9vcmlnaW5hbF9EQjNDQzUwNi01NEU1LTU4ODAtRjQzOC02MTZBQzA0MTM5NTgtMjA3MTUuMDcuMjAyNDAxNS5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/WGB5ICScJYR3NJ4uhdRY-ruAdn7d9liIAkHfQ5X4-rk/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8xMTA5L3RodW1icy9vcmlnaW5hbF8yQ0Q5QjM2OS1BNjg0LTQwOEItODdBMS1GMzExNzc1OUUyNDAtMjA3MTUuMDcuMjAyNDAxMy5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/YYhHvFy4u1Ss2xd6wjvc3Ad7fLF4EiEQAHgGAXuA4Xw/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8xMTA5L3RodW1icy9vcmlnaW5hbF80MDgzNjYxRS0zODAyLTkzMTYtNERBMC1CNjQyMUJEQTE2MUQtMjA3MTUuMDcuMjAyNDAxMS5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/5NX7dcMZ34qEP4UXbkbkhKY86hiw7el5U-u6rtiAwQQ/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8xMTA5L3RodW1icy9vcmlnaW5hbF81NDE5MzFCRC01QUQ0LTFDMDctMzdBNi1FNTY4ODVFQjg5NkYtMjA3MTUuMDcuMjAyNDAxMi5qcGc.jpg"
+      ],
+      "servicios_especiales": {
+        "tiene_descuento": false,
+        "garantia_cuotas": true,
+        "sin_aval": false,
+        "servicio_pro": false
+      }
+    },
+    {
+      "id": 1498,
+      "informacion_basica": {
+        "titulo": "Vistanova II",
+        "direccion_completa": "Chacabuco 1120 , Santiago",
+        "comuna": "Santiago",
+        "link_propiedad": "https://www.assetplan.cl/arriendo/departamento/santiago/edificio/vistanova-ii/1498"
+      },
+      "precio": {
+        "precio_desde": "320000",
+        "precio_hasta": "440000",
+        "moneda": "CLP",
+        "precio_desde_uf": 8205,
+        "precio_hasta_uf": 11282
+      },
+      "servicios_disponibles": [
+        "Arriendo con descuento",
+        "Garantía en cuotas",
+        "Opción sin garantía"
+      ],
+      "caracteristicas": [
+        "2 Dormitorios | 4 Disponibles",
+        "1 Dormitorio | 1 Disponible",
+        "Estudio | Notificar disponibilidad"
+      ],
+      "imagenes": [
+        "https://d23gr057zjkjxx.cloudfront.net/BKQy0o8lOwOk9bgmHfuTF6aAY1t4bDMUsMkHcF9ClRk/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8xNDk4L3RodW1icy9vcmlnaW5hbF8wMzY1NTMyMC01QjNCLUM0RDctMTkzRS04MzBFNDhGRUEzNDUtMDI3MTI1MjI4ZWRpdGVkLmpwZWc.jpeg",
+        "https://d23gr057zjkjxx.cloudfront.net/tZyoVUqiPWEHx-sr7dyp6fc6-V5lzgoEr4R1ug4WNh4/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8xNDk4L3RodW1icy9vcmlnaW5hbF9DRDZDRDMxQS04RDYxLTMxNjAtODU5MS1CQUE1M0FFRUVFNUItMTAwMDA4Njk3OS5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/XXhmeWQupR650nrQwq3PIG_Hffyrvoqid4Nv57Hb3h0/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8xNDk4L3RodW1icy9vcmlnaW5hbF83Q0IyNDBDOC1FRTlELUM1MkMtOEY5OC0wNURCMUM3NEU3OTktMDI3MTI1MjAwZWRpdGVkLmpwZWc.jpeg",
+        "https://d23gr057zjkjxx.cloudfront.net/tTa6xG10tdGltRWlmiXUq7pf8Cll7c9zKb2wCicUXZE/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8xNDk4L3RodW1icy9vcmlnaW5hbF82RjZDQ0ZCRS1EOUEyLTNCNTItMDYxRS1FRkVDMjc1ODdCMUUtMTEzMTUxMjQ2ZWRpdGVkLmpwZWc.jpeg",
+        "https://d23gr057zjkjxx.cloudfront.net/SUzQ-fPvGAyYwgzXlD5eZC-OEO2F93u2WyerQ__V73Q/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8xNDk4L3RodW1icy9vcmlnaW5hbF80NjlCMEU2Mi04MTNCLTAzQjQtOTVBMC0zRjUyQzM0QkUwRjEtMTEzMTUxNTM1ZWRpdGVkLmpwZWc.jpeg"
+      ],
+      "servicios_especiales": {
+        "tiene_descuento": true,
+        "garantia_cuotas": true,
+        "sin_aval": false,
+        "servicio_pro": false
+      }
+    },
+    {
+      "id": 2070,
+      "informacion_basica": {
+        "titulo": "Espacio Huérfanos",
+        "direccion_completa": "Gral. Bulnes 259 , Santiago",
+        "comuna": "Santiago",
+        "link_propiedad": "https://www.assetplan.cl/arriendo/departamento/santiago/edificio/espacio-huerfanos/2070"
+      },
+      "precio": {
+        "precio_desde": "260000",
+        "precio_hasta": "480000",
+        "moneda": "CLP",
+        "precio_desde_uf": 6667,
+        "precio_hasta_uf": 12308
+      },
+      "servicios_disponibles": [
+        "Arriendo con descuento",
+        "Garantía en cuotas"
+      ],
+      "caracteristicas": [
+        "Estudio | 4 Disponibles",
+        "2 Dormitorios | 1 Disponible",
+        "1 Dormitorio | Notificar disponibilidad"
+      ],
+      "imagenes": [
+        "https://d23gr057zjkjxx.cloudfront.net/GNn4yDPJ-g6QF3o3msyoo5k8p2nciQ3_8JAKhVh1tF8/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yMDcwL3RodW1icy9vcmlnaW5hbF84Q0I5ODdDNS02Njc2LTQ3NjItMUFCNC0xQzFGNUNCMjhFMzctbWcyMDIzMDMyODEyNTY1OC5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/y8aVpIHXZ3xUSYUOg53SVl2NTqB4F8yo-7HOMz0SYN8/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yMDcwL3RodW1icy9vcmlnaW5hbF85Q0E2MTVGNy1CN0ZDLUU3MzMtRTU4Qi01OTEyRUY3MjgwNTUtMDRhMDcuMDMuMjAyNDAyNi5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/cPk_M4ZbSdZKFwb120YjgicarTmy93aSWdgkHM4us1M/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yMDcwL3RodW1icy9vcmlnaW5hbF8yRTdDNjhCNi0xMEIwLTVBNTgtNDNBNi1DQTQxNTFDMkI1NzEtMDRhMDcuMDMuMjAyNDAyNS5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/LvFTS1cmii2LvGhrjwWM6QhQc5e_M7bqiEcHimFv0jU/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yMDcwL3RodW1icy9vcmlnaW5hbF9CN0REMzc3My02M0QwLUQyOTEtMjFDNi0xMjg4ODczQjgwQzAtMDRhMDcuMDMuMjAyNDAyNC5qcGc.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/Qgx3UIAQQdTGsOToFemEAmHz4DcAAqZZqqGCz9I--78/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy8yMDcwL3RodW1icy9vcmlnaW5hbF80Q0VBODI2RS1DNkI1LTYxMjYtMjdCRi0zQ0VBQTczQzA4MzItMDRhMDcuMDMuMjAyNDAyMy5qcGc.jpg"
+      ],
+      "servicios_especiales": {
+        "tiene_descuento": true,
+        "garantia_cuotas": true,
+        "sin_aval": false,
+        "servicio_pro": false
+      }
+    },
+    {
+      "id": 458,
+      "informacion_basica": {
+        "titulo": "Eco Futuro II",
+        "direccion_completa": "Radal 66 , Estación Central",
+        "comuna": "Estación Central",
+        "link_propiedad": "https://www.assetplan.cl/arriendo/departamento/estacion-central/edificio/eco-futuro-ii/458"
+      },
+      "precio": {
+        "precio_desde": "270000",
+        "precio_hasta": "360000",
+        "moneda": "CLP",
+        "precio_desde_uf": 6923,
+        "precio_hasta_uf": 9231
+      },
+      "servicios_disponibles": [
+        "Arriendo con descuento",
+        "Garantía en cuotas",
+        "Opción sin garantía"
+      ],
+      "caracteristicas": [
+        "2 Dormitorios | 3 Disponibles",
+        "1 Dormitorio | 1 Disponible",
+        "Estudio | Notificar disponibilidad"
+      ],
+      "imagenes": [
+        "https://d23gr057zjkjxx.cloudfront.net/gCLvFQw77aPbznrmaAIDQE2Ulcf66RZh8DmMwbvR06s/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy80NTgvdGh1bWJzL29yaWdpbmFsXzBDOERCMjcxLTg2REQtRUZDNC1BRTdGLTZEOEJBMTdFMDE1MmFwX3I2Nl8yOTAxLWFfMTYuMTEuMjAyMl8wMjIuanBn.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/We-hwAfYB1wrPO0G0A1DANcHsZiCeE53oN2Z5HZ65IU/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy80NTgvdGh1bWJzL29yaWdpbmFsXzI4OUQ5Nzg2LTcxNzgtODlBRi0wOTVELTFFRTFGRkQ1MzA4MmFwX3I2Nl8yOTAxLWFfMTYuMTEuMjAyMl8wMjMuanBn.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/zGWmxb3NDxgVkDXkazEr8eUcuvVwDfpDyI7W0X9vVnA/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy80NTgvdGh1bWJzL29yaWdpbmFsXzhDQUQ4QTAzLTc2RDQtQzQyNC1BRjExLUQ4OEVBOTk4QjQ1M2FwX3I2Nl8yOTAxLWFfMTYuMTEuMjAyMl8wMTUuanBn.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/G1IwibbbVCvu2Aqe-W4h079PQe-NtqSp-ITrVHvjWqo/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy80NTgvdGh1bWJzL29yaWdpbmFsXzI4OUM3MTc4LTJGNTYtNzREMy04MzE0LTVBQTBGMTBGNkQ1QmFwX3I2Nl8yOTAxLWFfMTYuMTEuMjAyMl8wMjEuanBn.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/cuF-ZQ2S-e9i3RvLwgS0hjGP6JCVTA4t2-ePo9s65-s/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy80NTgvdGh1bWJzL29yaWdpbmFsXzlGQzk4Qzk5LTMyRUUtRUMzRS0zNkY0LTYxOEZCRjQ1OTRBQWFwX3I2Nl8yOTAxLWFfMTYuMTEuMjAyMl8wMTkuanBn.jpg"
+      ],
+      "servicios_especiales": {
+        "tiene_descuento": true,
+        "garantia_cuotas": true,
+        "sin_aval": false,
+        "servicio_pro": false
+      }
+    },
+    {
+      "id": 772,
+      "informacion_basica": {
+        "titulo": "Don Alfredo",
+        "direccion_completa": "Eyzaguirre 766 , Santiago",
+        "comuna": "Santiago",
+        "link_propiedad": "https://www.assetplan.cl/arriendo/departamento/santiago/edificio/don-alfredo/772"
+      },
+      "precio": {
+        "precio_desde": "210000",
+        "precio_hasta": "300000",
+        "moneda": "CLP",
+        "precio_desde_uf": 5385,
+        "precio_hasta_uf": 7692
+      },
+      "servicios_disponibles": [
+        "Arriendo con descuento",
+        "Garantía en cuotas"
+      ],
+      "caracteristicas": [
+        "2 Dormitorios | 2 Disponibles",
+        "Estudio | 2 Disponibles",
+        "1 Dormitorio | Notificar disponibilidad",
+        "3 Dormitorios | Notificar disponibilidad"
+      ],
+      "imagenes": [
+        "https://d23gr057zjkjxx.cloudfront.net/l8jWhnzREwt0HIAyCEesdOrjwi6iU_Iue5fHLS-wldQ/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy83NzIvdGh1bWJzL29yaWdpbmFsX0JGQjM2NEI3LUI4NkYtRDExRC1DRjcxLUE1OTBDNUU0ODYyNy05MDQwNS4wNS4yMDIxMDA5LmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/mWuFHbzW3gYDTkk2XsTJxAAEeez6jgCagRJeQWqPWWw/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy83NzIvdGh1bWJzL29yaWdpbmFsXzY1MTJFOUUyLTdBM0MtOTBFRi1DRTVCLUU4QkE1MDg0MkZERS05MDQwNS4wNS4yMDIxMDA4LmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/-Ubxgch7BAODW2aWViTT1dcXKFt8LNr9HEpxCJsdScw/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy83NzIvdGh1bWJzL29yaWdpbmFsXzRGOTMzQzJELTlCNTAtODk4Mi1BODRCLTYwN0NDRkYxMEU0Mi05MDQwNS4wNS4yMDIxMDA2LmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/SvNahywHG1KsN3OMdp4SmXGQ0j0XGobFzrIghjsb4vs/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy83NzIvdGh1bWJzL29yaWdpbmFsX0MwODAyQkI3LTlEQTEtRkI5RC1COTlELTkzMjE4MzBDNDMxRi05MDQwNS4wNS4yMDIxMDA3LmpwZw.jpg"
+      ],
+      "servicios_especiales": {
+        "tiene_descuento": true,
+        "garantia_cuotas": true,
+        "sin_aval": false,
+        "servicio_pro": false
+      }
+    },
+    {
+      "id": 905,
+      "informacion_basica": {
+        "titulo": "Condominio Jardín Centro",
+        "direccion_completa": "Blanco Garcés 154 , Estación Central",
+        "comuna": "Estación Central",
+        "link_propiedad": "https://www.assetplan.cl/arriendo/departamento/estacion-central/edificio/condominio-jardin-centro/905"
+      },
+      "precio": {
+        "precio_desde": "204000",
+        "precio_hasta": "300000",
+        "moneda": "CLP",
+        "precio_desde_uf": 5231,
+        "precio_hasta_uf": 7692
+      },
+      "servicios_disponibles": [
+        "Arriendo con descuento",
+        "Garantía en cuotas",
+        "Opción sin garantía"
+      ],
+      "caracteristicas": [
+        "Estudio | 2 Disponibles",
+        "1 Dormitorio | 1 Disponible",
+        "2 Dormitorios | 1 Disponible"
+      ],
+      "imagenes": [
+        "https://d23gr057zjkjxx.cloudfront.net/-eOLuP6p10WQairaRKcn6po2fS-GBkyS587lF3pSNZ4/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy85MDUvdGh1bWJzL29yaWdpbmFsXzI4OUJCNDlBLTAzQTYtNkEwOC03MzAzLUE2NDEzRjg1RjBDQS1tZzIwMjUwNjE3MTI1MzM2LmpwZw.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/WSu3ty59-ijcOCnezY7wGgjlqqxSdjWyWG8fr-1m9PY/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy85MDUvdGh1bWJzL29yaWdpbmFsXzhBQTM3NTNGLUUwNzktQjkxQi02MUQyLTYyOUY5REFFODMwOGFwX2JnMTU0XzcwNGFfMTguMDYuMjAyMV8wMDkuanBn.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/VEi7XIhAa8a-liEWwnhwHbp0w5OzRSRQYlnwFfaDGTQ/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy85MDUvdGh1bWJzL29yaWdpbmFsXzNGMUZBOEVCLTNCQTUtNjY4RS0yMzI4LTI5OTM5MUNFM0U3M2FwX2JnMTU0XzcwNGFfMTguMDYuMjAyMV8wMDcuanBn.jpg",
+        "https://d23gr057zjkjxx.cloudfront.net/Yd6UCtB6CAqdNLRvHvWTT3u-C8fYfWvSKaR3OcmN9j0/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy85MDUvdGh1bWJzL29yaWdpbmFsXzJCQjFERkQ0LTA5OEYtNzdEMi1GNkUyLUVEODBEOTcyNkE5MC03MjExNzA0NTllZGl0ZWQuanBlZw.jpeg",
+        "https://d23gr057zjkjxx.cloudfront.net/Jp1w07VVJbfspQVHv3PGp9MUmqVBwBO9chVnZPZhMw8/rs:fill:350:300/g:ce/aHR0cHM6Ly9hc3NldHBsYW4tYmFja29mZmljZS5zMy5hbWF6b25hd3MuY29tL2J1aWxkaW5ncy85MDUvdGh1bWJzL29yaWdpbmFsX0M1RDM2RTdGLTY0QkEtMDEwMi00MzMwLTMwNjQ2REZGN0VFMGFwX2JnMTU0XzcwNGFfMTguMDYuMjAyMV8wMDguanBn.jpg"
+      ],
+      "servicios_especiales": {
+        "tiene_descuento": true,
+        "garantia_cuotas": true,
+        "sin_aval": false,
+        "servicio_pro": false
+      }
+    }
+  ]
+}
