@@ -1,0 +1,16 @@
+api:
+  host: "0.0.0.0"
+  port: 8080
+  title: "AssetPlan MCP Agent API"
+
+agent:
+  provider: "google"
+  model: "gemini-2.5-flash"
+  temperature: 0.0
+  max_tokens: 4096
+
+mcp_servers:
+  assetplan_mcp_server:
+    url: "http://assetplan-mcp-server:8020/mcp/"
+    transport: "streamable_http"
+    description: "Chroma Search MCP Client Server"
