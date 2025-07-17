@@ -14,6 +14,13 @@ Este proyecto contiene una serie de servicios para interactuar con un agente de 
 1.  **Configurar variables de entorno:**
     Crea un archivo `.env` en la raíz del proyecto a partir del archivo `.env.example` (si existe) o basándote en las variables definidas en `docker-compose.yml`. Asegúrate de completar todos los valores requeridos.
 
+    Es **obligatorio** que configures las siguientes claves de API en tu archivo `.env` para que el agente de IA funcione correctamente:
+
+    -   `OPENAI_API_KEY`: Tu clave de API de OpenAI. Puedes obtenerla en [platform.openai.com](https://platform.openai.com/).
+    -   `GOOGLE_API_KEY`: Tu clave de API de Google para los modelos Gemini. Puedes obtenerla en [makersuite.google.com](https://makersuite.google.com/).
+
+    La variable `OPENAI_EMBEDDINGS_MODEL` ya viene preconfigurada como `text-embedding-3-small`, pero puedes ajustarla si es necesario.
+
 2.  **Iniciar los servicios:**
     Para levantar todos los servicios definidos en el `docker-compose.yml`, ejecuta el siguiente comando desde la raíz del proyecto:
 
