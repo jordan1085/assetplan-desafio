@@ -47,6 +47,6 @@ Para ejecutarlo, primero debes navegar al directorio del scraper y luego ejecuta
 cd assetplan-scraper
 make test_scraper
 ```
-### 3. Diagramas
+## Diagramas
 
 ![Diagrama de procesos](diagrama/assetplan.drawio.png)
